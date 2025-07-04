@@ -5,7 +5,7 @@
 
 ## 🛠️ Skills
 - 💻 Programming: C (Mastery, Pointers, Data Structures)
-- 🔧 Embedded: 8086 Microprocessor, ARM7, ARM Cortex-M101, Raspberry Pi, Arduino, ESP32
+- 🔧 Embedded: 8086 Microprocessor, ARM7, ARM Cortex-M-101, Raspberry Pi, Arduino, ESP32
 - 🐧 Tools: Linux, Git, GCC, Serial Communication
 - 📱 Modules: GSM, GPS, LCD, Keypad, Sensors
 
@@ -36,7 +36,7 @@
 - C Programming         – Bharat Acharya Education  
 - 8086 Microprocessor   – Bharat Acharya Education  
 - ARM7 Microcontroller  – Bharat Acharya Education  
-- ARM Cortex-M101       – Pyjamabrah 
+- ARM Cortex-M-101       – Pyjamabrah 
 - C Language Mastery    – Pyjamabrah  
 - C Pointers            – Pyjamabrah  
 - C Data Structure      – Pyjamabrah  
@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Connect With Me
-- ✉️ Email: your_email@gmail.com
+- ✉️ Email: axay19392@gmail.com
 - 🌐 GitHub: [github.com/yourusername](https://github.com/AxayRam)
 
 ---
