@@ -47,7 +47,7 @@
 
 ## 📫 Connect With Me
 - ✉️ Email: axay19392@gmail.com
-- 🌐 GitHub: [github.com/yourusername](https://github.com/AxayRam)
+- 🌐 GitHub: [github.com/AxayRam](https://github.com/AxayRam)
 
 ---
 
