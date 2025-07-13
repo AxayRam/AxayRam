@@ -4,14 +4,13 @@
 ---
 
 ## 👨‍💻 Programming Languages
-- C (Primary) ✅
+- C  ✅
 - Embedded C (Bare-Metal, Drivers)
 - Assembly (8086, ARM7 basics)
-- Python (Basic scripting)
+
 
 ## 🚀 Frameworks, Tools & Libraries
 - GCC, GDB, GNU Make, Linker Scripts
-- FreeRTOS (scheduler, tasks, semaphores)
 - STM32 (ARM Cortex-M), ESP32, Arduino
 - Linux Terminal, Shell, VS Code, Git, GitHub
 
