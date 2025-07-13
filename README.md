@@ -4,64 +4,51 @@
 ---
 
 ## 👨‍💻 Programming Languages
-- C (Mastery in Pointers, Bit Manipulation, Data Structures)
-- Basic knowledge of Assembly (8086, ARM7)
-- Python (Basics)
+- C (Primary) ✅
+- Embedded C (Bare-Metal, Drivers)
+- Assembly (8086, ARM7 basics)
+- Python (Basic scripting)
 
 ## 🚀 Frameworks, Tools & Libraries
-- Linux Command Line, GCC, GDB
-- GNU Make, Linker Scripts
-- FreeRTOS, STM32 (Bare-metal)
-- Raspberry Pi (C with Linux), ESP32
-- Git, GitHub, VS Code
+- GCC, GDB, GNU Make, Linker Scripts
+- FreeRTOS (scheduler, tasks, semaphores)
+- STM32 (ARM Cortex-M), ESP32, Arduino
+- Linux Terminal, Shell, VS Code, Git, GitHub
 
-## 📊 Data Structures & Algorithms
-- Arrays, Strings, Linked List, Stack, Queue
-- Manual memory management in C
-- Bit-level problem solving
+## 📈 Projects
 
----
-
-## 💼 Projects
-
-### 🔴 Raspberry Pi Projects
-- ✅ LED Blink using GPIO in C
-- ✅ Ultrasonic Sensor for Distance Measurement using C + Linux
+### 🔴 Raspberry Pi 5 (C + Linux)
+- ✅ LED Blinking via GPIO in C
+- ✅ Ultrasonic Sensor Distance Calculation with C
 
 ### 📷 ESP32-CAM
-- ✅ Wireless Surveillance System using Telegram Bot  
-  → Sends real-time images to Telegram for live monitoring
+- ✅ Wireless Surveillance System using Telegram Bot
+  → Sends live image snapshots to Telegram for monitoring
 
 ### 🔊 Signal Processing
-- ✅ Pulse Code Modulation Generator in C  
-  → Generates raw sinewave PCM audio file (.raw), tested in Audacity
+- ✅ Pulse Code Modulation Generator in C
+  → Generates .raw sinewave PCM file, verified in Audacity
 
-### 📟 Women Safety Device
-- ✅ GSM + GPS + EEPROM + Keypad Device  
-  → Sends live location via SMS and triggers emergency call
+### 📿 Women Safety Device
+- ✅ GSM + GPS + Keypad + EEPROM integration
+  → Sends SMS with location, emergency calling on button press
 
 ---
 
 ## 📜 Certifications
-
-- C Programming – Bharat Acharya Education  
-- 8086 Microprocessor – Bharat Acharya Education  
-- ARM7 Microcontroller – Bharat Acharya Education  
-- ARM Cortex-M 101 – Pyjamabrah  
-- C Language Mastery – Pyjamabrah  
-- C Pointers – Pyjamabrah  
-- C Data Structures – Pyjamabrah  
-- Bit Manipulation – Pyjamabrah  
-- Introduction to C Programming for Raspberry Pi – Udemy  
-- ARM Cortex-M (Bootloader, Scheduler) – Pyjamabrah  
-- GNU Makefile Automation – Pyjamabrah  
+- C Programming – Bharat Acharya Education
+- 8086 Microprocessor – Bharat Acharya Education
+- ARM7 Microcontroller – Bharat Acharya Education
+- ARM Cortex-M 101 & 102 – Pyjama Brah
+- C Mastery, Pointers, Bit Manipulation, DSA – Pyjama Brah
+- GNU Makefile & Automation – Pyjama Brah
+- Introduction to C on Raspberry Pi – Udemy
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" alt="Streak Stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
@@ -70,13 +57,11 @@
 
 ---
 
-## 📫 Connect With Me
-
-- 📧 Email: axay19392@gmail.com  
-- 🌐 GitHub: [github.com/AxayRam](https://github.com/AxayRam)  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-ram-axay](https://www.linkedin.com/in/your-linkedin-ram-axay)
+## 📢 Connect With Me
+- ✉️ Email: axay19392@gmail.com
+- 🌐 GitHub: [github.com/AxayRam](https://github.com/AxayRam)
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-ram-axay](https://linkedin.com/in/your-linkedin-ram-axay)
 
 ---
 
-> ⚡ Passionate about Embedded Systems, Real-Time Software, and Bare-metal C Programming. Learning never stops!
-
+> ⚡ Passionate about Embedded Systems, Bare-Metal Programming, and Low-level C Development. Always building, always learning!
