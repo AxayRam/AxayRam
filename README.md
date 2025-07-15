@@ -76,8 +76,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxayRam&layout=compact&theme=tokyonight" alt="C Language
-    " />
+
 </p>
 
 ---
