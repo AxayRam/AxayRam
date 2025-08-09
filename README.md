@@ -150,6 +150,6 @@
 
 <div align="center">
   
-**"In embedded systems, every byte counts and every cycle matters."** 
+
 
 </div>
