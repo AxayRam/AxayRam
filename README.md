@@ -1,62 +1,81 @@
+<!-- Profile Header -->
 
-# 👨‍💻 Axay Ram | Embedded Systems Engineer
-**Electronics & Communication Engineering Student | Embedded Systems & Firmware Developer**
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+AXAY+RAM+%F0%9F%91%8B" alt="Typing Animation" />
+</h1>
 
-I am a passionate and dedicated Electronics and Communication Engineering student with a strong focus on **Embedded Systems** and **low-level C development**. My expertise lies in bare-metal programming, driver development, and building robust firmware solutions. I am always eager to learn new technologies and apply my skills to create innovative projects.
+<h3 align="center">
+💻 Embedded Systems & Firmware Developer | ECE Student
+</h3>
 
----
+💻 About Me
+🎓 Electronics & Communication Engineering Student
 
-### 🚀 Technical Skills
+💡 Passionate about Embedded Systems, Bare-Metal Programming, and Low-level C Development.
 
-**Programming Languages:**
-- **C** (Advanced)
-- Embedded C (Bare-Metal, Drivers)
-- Assembly (8086, ARM7 basics)
+⚡ I love building, tinkering, and learning new things in the world of hardware and software.
 
-**Frameworks & Tools:**
-- **Microcontrollers:** STM32 (ARM Cortex-M), ESP32, Arduino
-- **Development Tools:** GCC, GDB, GNU Make, Linker Scripts, VS Code, Git, GitHub
-- **Operating Systems:** Linux Terminal, Shell
+🧰 Tech Stack
+👨‍💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-black?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+</p>
 
----
+🚀 Embedded Systems & Tools
+<p>
+<img src="https://img.shields.io/badge/STM32-003A70?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCC-4E4E4E?style=for-the-badge&logoColor=white"/>
+</p>
 
-### 📈 Featured Projects
+📈 Projects
+🔴 Raspberry Pi 5 (C + Linux)
 
-#### 🔴 Raspberry Pi 5 (C + Linux)
-- **LED Blinking via GPIO:** Developed a C program for controlling GPIO pins to blink an LED.
-- **Ultrasonic Sensor Distance Calculation:** Implemented a C application to calculate distance using an ultrasonic sensor.
+LED Blinking via GPIO in C
 
-#### 📷 ESP32-CAM Wireless Surveillance System
-- Built a system that captures live image snapshots and sends them to a Telegram bot for remote monitoring.
+Ultrasonic Sensor Distance Calculation with C
 
-#### 🔊 Pulse Code Modulation (PCM) Generator in C
-- Created a C program to generate a `.raw` sinewave PCM file, verified using Audacity.
+📷 ESP32-CAM
 
-#### 📿 Women's Safety Device
-- Integrated GSM, GPS, Keypad, and EEPROM to develop a device that sends an SMS with location data and initiates an emergency call on button press.
+Wireless Surveillance System using Telegram Bot → Sends live image snapshots to Telegram for monitoring
 
----
+🔊 Signal Processing
 
-### 📜 Certifications
+Pulse Code Modulation Generator in C → Generates .raw sinewave PCM file, verified in Audacity
 
-- **Embedded Systems & Microcontrollers:**
-  - ARM Cortex-M 101 & 102 (Pyjama Brah)
-  - ARM7 Microcontroller (Bharat Acharya Education)
-  - 8086 Microprocessor (Bharat Acharya Education)
-  - Introduction to C on Raspberry Pi (Udemy)
-- **C Programming & Foundations:**
-  - C Mastery, Pointers, Bit Manipulation, DSA (Pyjama Brah)
-  - C Programming (Bharat Acharya Education)
-  - GNU Makefile & Automation (Pyjama Brah)
+📿 Women Safety Device
 
----
+GSM + GPS + Keypad + EEPROM integration → Sends SMS with location, emergency calling on button press
 
-### 📢 Let's Connect!
+📜 Certifications
+C Programming – Bharat Acharya Education
 
-- **Email:** axay19392@gmail.com
-- **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)
-- **LinkedIn:** [linkedin.com/in/your-linkedin-ram-axay](https://www.linkedin.com/in/your-linkedin-ram-axay)
+8086 Microprocessor – Bharat Acharya Education
 
----
+ARM7 Microcontroller – Bharat Acharya Education
 
-![Axay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=onedark)
+ARM Cortex-M 101 & 102 – Pyjama Brah
+
+C Mastery, Pointers, Bit Manipulation, DSA – Pyjama Brah
+
+GNU Makefile & Automation – Pyjama Brah
+
+Introduction to C on Raspberry Pi – Udemy
+
+📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" height="180"/>
+</p>
+
+📢 Connect With Me
+<p align="center">
+⚡ Passionate about Embedded Systems, Bare-Metal Programming, and Low-level C Development. Always building, always learning!
+</p>
