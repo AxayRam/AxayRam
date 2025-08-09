@@ -1,48 +1,155 @@
-# 👋 Hi, I’m Axay Ram
+<!-- Profile Header -->
+<h1 align="center">
+  👋 Hi, I'm Axay Ram  
+</h1>
+<h3 align="center">
+  ⚡ Embedded Systems & Firmware Developer | Electronics & Communication Engineer
+</h3>
 
-**Embedded Systems & Firmware Developer**  
-*Electronics & Communication Engineer*
-
----
-
-## 🔎 Summary
-Final-year Electronics & Communication Engineering student specializing in bare-metal C firmware for ARM7, STM32 & ESP32. Passionate about real-time systems, device drivers & IoT solutions.
-
----
-
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c) ![Embedded C](https://img.shields.io/badge/Embedded%20C-007ACC?style=flat-square) ![STM32](https://img.shields.io/badge/STM32-2C2D72?style=flat-square) ![ESP32](https://img.shields.io/badge/ESP32-303030?style=flat-square) ![Arduino Mega](https://img.shields.io/badge/Arduino%20Mega-00979D?style=flat-square&logo=arduino) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Expert;Firmware+Developer;Low-Level+C+Programmer" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📈 Highlights
-- 50+ commits per month  
-- 10+ projects delivered in 2024  
-- 3 open-source contributions  
+### 💻 About Me  
+
+- 🎓 **Final Year Electronics & Communication Engineering Student**  
+- 💻 **Specializing in Embedded Systems, Firmware, and Low-Level C Programming**  
+- 🚀 **Experienced with Raspberry Pi, STM32, ESP32, ARM7, 8086, Arduino Mega**  
+- 🔍 **Passionate about Bare-Metal Development, Device Drivers, and Real-Time Systems**  
+- ⚡ **Focus on Hardware-Software Integration and System Optimization**  
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AxayRam-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-ram-axay)
+
+</div>
 
 ---
 
-## 🚀 Projects
-- **Raspberry Pi 5** — Bare-metal C GPIO control & Linux kernel module  
-- **ESP32-CAM** — Telegram-based wireless surveillance system  
-- **Arduino Mega** — Multi-sensor data logging & serial peripheral control  
-- **Women Safety IoT Device** — GSM+GPS SOS emergency alert system  
+### 🧰 Tech Stack  
+
+#### ⚙ Programming & Embedded
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="60" style="margin-right:20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="60" style="margin-right:20px;"/>
+</p>
+
+#### 🛠 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" style="margin-right:20px;"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="60" style="margin-right:20px;"/>
+  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" width="60" style="margin-right:20px;"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin-right:20px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60" style="margin-right:20px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60" style="margin-right:20px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="60" style="margin-right:20px;"/>
+</p>
+
+**Core Expertise:** ARM Architecture |BASIC  RTOS | Device Drivers | Signal Processing | Hardware Debugging | System Programming | ARDUINO MEGA | ESP32 CAM
 
 ---
 
-## 📜 Certifications
-- **C Programming** (Bharat Acharya Education)  
-- **8086 Microprocessor** & **ARM7 Microcontroller** (Bharat Acharya Education)  
-- **ARM Cortex-M 101 & 102** (Pyjama Brah)  
-- **Low-Level C & Bit Manipulation** (Pyjama Brah)  
-- **GNU Makefile & Automation** (Pyjama Brah)  
-- **Introduction to C on Raspberry Pi** (Udemy)  
+### 🚀 Projects  
+
+#### 🔴 **Raspberry Pi 5 (C + Linux)**  
+- ✅ **LED Blinking via GPIO in C** - Bare-metal hardware control programming
+- ✅ **Ultrasonic Sensor Distance Measurement** - Real-time sensor data processing with interrupts  
+
+#### 📷 **ESP32-CAM**  
+- ✅ **Wireless Surveillance System using Telegram Bot** – Live image capture and transmission system
+- ✅ **Remote Monitoring** - Automated alert notifications with real-time snapshots to Telegram  
+
+#### 🔊 **Signal Processing**  
+- ✅ **Pulse Code Modulation Generator in C** → Custom PCM implementation for audio processing
+- ✅ **Audio File Generation** - Generates `.raw` sinewave PCM files (verified in Audacity)  
+
+#### 📿 **Women Safety Device**  
+- ✅ **GSM + GPS + Keypad + EEPROM Integration** – Multi-module embedded system coordination
+- ✅ **Emergency Response System** - One-button SOS with live location tracking and SMS automation
+
+#### 🔧 **Arduino Mega Projects**
+- ✅ **Multi-Sensor Data Acquisition** - Real-time sensor monitoring and data logging
+- ✅ **Hardware Interface Programming** - Serial communication and peripheral control
+
+#### ⚡ **ESP32 Development**
+- ✅ **WiFi-based IoT Applications** - Wireless communication and web server implementation
+- ✅ **Bluetooth Integration** - Device-to-device communication protocols
 
 ---
 
-## 📄 [Download Resume](https://example.com/your_resume.pdf)
+### 📜 Certifications  
+
+<div align="center">
+
+| **Certification** | **Institution** | **Focus Area** |
+|:-----------------:|:---------------:|:--------------:|
+| **C Programming** | Bharat Acharya Education | Advanced C Programming |
+| **8086 Microprocessor** | Bharat Acharya Education | Assembly & Architecture |
+| **ARM7 Microcontroller** | Bharat Acharya Education | Embedded Systems |
+| **ARM Cortex-M 101 & 102** | Pyjama Brah | ARM Programming |
+| **C Mastery, Pointers, Bit Manipulation, DSA** | Pyjama Brah | Low-Level Programming |
+| **GNU Makefile & Automation** | Pyjama Brah | Build Systems |
+| **Introduction to C on Raspberry Pi** | Udemy | Hardware Programming |
+
+</div>
 
 ---
 
-## 📫 Connect
-[![GitHub](https://img.shields.io/badge/GitHub-AxayRam-181717?style=flat-square&logo=github)](https://github.com/AxayRam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin-ram-axay) [![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:axay19392@gmail.com)
+### 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+### 🎯 Current Focus
+
+- 🔬 **Advanced ARM Cortex-M Programming** - Exploring bare-metal development techniques
+- 🚀 **Real-Time Operating Systems** - FreeRTOS implementation and optimization  
+- 🛠️ **Custom Device Drivers** - Linux kernel module development
+- 📡 **IoT Communication Protocols** - MQTT, CoAP implementation
+- ⚡ **Performance Optimization** - Memory management and system efficiency
+
+---
+
+### 📢 Connect With Me  
+
+<div align="center">
+
+**Ready to collaborate on innovative embedded systems projects!**
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-ram-axay">
+    <img src="https://img.icons8.com/fluency/80/linkedin.png" width="60" alt="LinkedIn" style="margin: 0 20px;"/>
+  </a>
+  <a href="mailto:axay19392@gmail.com">
+    <img src="https://img.icons8.com/fluency/80/gmail-new.png" width="60" alt="Gmail" style="margin: 0 20px;"/>
+  </a>
+  <a href="https://github.com/AxayRam">
+    <img src="https://img.icons8.com/fluency/80/github.png" width="60" alt="GitHub" style="margin: 0 20px;"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AxayRam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  
+
+
+</div>
