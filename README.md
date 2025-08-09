@@ -46,7 +46,7 @@
   <img src="https://skillicons.dev/icons?i=vscode" width="60" style="margin-right:20px;"/>
 </p>
 
-**Core Expertise:** ARM Architecture | RTOS Development | Device Drivers | Signal Processing | Hardware Debugging | System Programming | Arduino Mega | ESP32-CAM
+**Core Expertise:** ARM Architecture | BASIC RTOS Development | Device Drivers | Signal Processing | Hardware Debugging | System Programming | Arduino Mega | ESP32-CAM | LINKER SCRIPT | 8086 Architecture 
 
 ---
 
