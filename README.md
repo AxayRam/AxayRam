@@ -1,3 +1,6 @@
+### My GitHub Contributions
+
+![GitHub-Profile-3D-Contrib](https://github.com/AxayRam/AxayRam/blob/main/profile-3d-contrib/profile-green-animate.svg)
 # 👨‍💻 Axay Ram | Embedded Systems Engineer
 **Electronics & Communication Engineering Student | Embedded Systems & Firmware Developer**
 
