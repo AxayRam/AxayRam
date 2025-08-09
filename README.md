@@ -1,89 +1,85 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>My Tools</title>
-<style>
-    body {
-        background-color: #0d1117; /* Dark GitHub-like background */
-        color: white;
-        font-family: Arial, sans-serif;
-        text-align: center;
-        margin: 0;
-        padding: 0;
-    }
-    h1 {
-        margin-top: 30px;
-        font-size: 28px;
-        color: #58a6ff;
-    }
-    .tools {
-        display: flex;
-        justify-content: center;
-        gap: 40px; /* Space between icons */
-        margin-top: 40px;
-        flex-wrap: wrap; /* Wrap if screen is small */
-    }
-    .tool {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-    .tool img {
-        width: 80px;
-        height: 80px;
-        object-fit: contain;
-        margin-bottom: 8px;
-        background-color: white;
-        padding: 10px;
-        border-radius: 15px;
-        box-shadow: 0px 4px 10px rgba(0,0,0,0.4);
-        transition: transform 0.2s ease-in-out;
-    }
-    .tool img:hover {
-        transform: scale(1.15);
-    }
-    .tool-name {
-        font-size: 14px;
-        color: #c9d1d9;
-        margin-top: 5px;
-    }
-</style>
-</head>
-<body>
+<!-- README.md for Axay Ram -->
+<h1 align="center">👋 Hi, I'm Axay Ram</h1>
+<h3 align="center">⚡ Embedded Systems & Firmware Developer | Electronics & Communication Engineer</h3>
 
-<h1>🚀 My Tools</h1>
-<div class="tools">
-    <div class="tool">
-        <img src="html-logo.png" alt="HTML">
-        <div class="tool-name">HTML</div>
-    </div>
-    <div class="tool">
-        <img src="css-logo.png" alt="CSS">
-        <div class="tool-name">CSS</div>
-    </div>
-    <div class="tool">
-        <img src="js-logo.png" alt="JavaScript">
-        <div class="tool-name">JavaScript</div>
-    </div>
-    <div class="tool">
-        <img src="c-logo.png" alt="C Language">
-        <div class="tool-name">C Language</div>
-    </div>
-    <div class="tool">
-        <img src="arduino-mega-logo.png" alt="Arduino Mega">
-        <div class="tool-name">Arduino Mega</div>
-    </div>
-    <div class="tool">
-        <img src="esp32-cam-logo.png" alt="ESP32-CAM">
-        <div class="tool-name">ESP32-CAM</div>
-    </div>
-    <div class="tool">
-        <img src="python-logo.png" alt="Python">
-        <div class="tool-name">Python</div>
-    </div>
-</div>
+---
 
-</body>
-</html>
+## 💻 About Me
+- 🎓 Final Year **Electronics & Communication Engineering** Student  
+- 💻 Specializing in **Embedded Systems, Firmware, and Low-Level C**  
+- 🚀 Experienced in **Raspberry Pi, Arduino Mega, ESP32-CAM, ARM7, 8086**  
+- 🔍 Passionate about **Bare-Metal Development, Drivers, and Real-Time Systems**  
+- 📧 **Email:** [axay19392@gmail.com](mailto:axay19392@gmail.com)  
+- 🌐 **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)  
+- 💼 **LinkedIn:** [linkedin.com/in/ram-axay](https://linkedin.com/in/ram-axay)
+
+---
+
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=embeddedc" width="48" alt="Embedded C"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=assembly" width="48" alt="Assembly"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino Mega"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=esp32" width="48" alt="ESP32-CAM"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
+</p>
+
+---
+
+## 🚀 Projects
+- **🔴 Raspberry Pi 5 (C + Linux)**  
+  - LED Blinking via GPIO in C  
+  - Ultrasonic Sensor Distance Measurement  
+
+- **📷 ESP32-CAM**  
+  - Wireless Surveillance System using Telegram Bot – sends live snapshots  
+
+- **🔊 Signal Processing**  
+  - Pulse Code Modulation Generator in C → `.raw` sinewave (Audacity verified)  
+
+- **📿 Women Safety Device**  
+  - GSM + GPS + Keypad + EEPROM – SMS with live location + emergency call  
+
+---
+
+## 📜 Certifications
+- **C Programming**, **8086 Microprocessor**, **ARM7 Microcontroller** – Bharat Acharya Education  
+- **ARM Cortex-M 101 & 102**, **C Mastery, Pointers, Bit Manipulation, DSA**, **GNU Makefile & Automation** – Pyjama Brah  
+- **Introduction to C on Raspberry Pi** – Udemy  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Website
+<p align="center">
+  <a href="https://gtustuy.com" target="_blank" rel="noopener">
+    <img src="https://img.icons8.com/fluency/96/domain.png" width="42" alt="Website"/> gtustuy.com
+  </a>
+</p>
+
+---
+
+## 📢 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/ram-axay">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:axay19392@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/AxayRam">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="42" alt="GitHub"/>
+  </a>
+</p>
