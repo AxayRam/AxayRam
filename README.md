@@ -1,85 +1,97 @@
-<!-- README.md for Axay Ram -->
-<h1 align="center">👋 Hi, I'm Axay Ram</h1>
-<h3 align="center">⚡ Embedded Systems & Firmware Developer | Electronics & Communication Engineer</h3>
+<!-- Profile Header -->
+<h1 align="center">
+  👋 Hi, I'm Axay Ram  
+</h1>
+<h3 align="center">
+  ⚡ Embedded Systems & Firmware Developer | Electronics & Communication Engineer
+</h3>
 
 ---
 
-## 💻 About Me
-- 🎓 Final Year **Electronics & Communication Engineering** Student  
+### 💻 About Me  
+
+- 🎓 Final Year Electronics & Communication Engineering Student  
 - 💻 Specializing in **Embedded Systems, Firmware, and Low-Level C**  
-- 🚀 Experienced in **Raspberry Pi, Arduino Mega, ESP32-CAM, ARM7, 8086**  
+- 🚀 Experienced in **Raspberry Pi, STM32, ESP32, ARM7, 8086**  
 - 🔍 Passionate about **Bare-Metal Development, Drivers, and Real-Time Systems**  
-- 📧 **Email:** [axay19392@gmail.com](mailto:axay19392@gmail.com)  
-- 🌐 **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)  
-- 💼 **LinkedIn:** [linkedin.com/in/ram-axay](https://linkedin.com/in/ram-axay)
+- 📧 Email: [axay19392@gmail.com](mailto:axay19392@gmail.com)  
+- 🌐 GitHub: [github.com/AxayRam](https://github.com/AxayRam)  
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-ram-axay](https://linkedin.com/in/your-linkedin-ram-axay)  
 
 ---
 
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" width="48" alt="C"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=embeddedc" width="48" alt="Embedded C"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=assembly" width="48" alt="Assembly"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" alt="Raspberry Pi"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=arduino" width="48" alt="Arduino Mega"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=esp32" width="48" alt="ESP32-CAM"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/>
+### 🧰 Tech Stack  
+
+#### ⚙ Programming & Embedded
+<p>
+  <img src="https://skillicons.dev/icons?i=c" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=embeddedc" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=assembly" width="50" style="margin-right:15px;"/>
+</p>
+
+#### 🛠 Tools & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=stm32" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin-right:15px;"/>
 </p>
 
 ---
 
-## 🚀 Projects
-- **🔴 Raspberry Pi 5 (C + Linux)**  
-  - LED Blinking via GPIO in C  
-  - Ultrasonic Sensor Distance Measurement  
+### 🚀 Projects  
 
-- **📷 ESP32-CAM**  
-  - Wireless Surveillance System using Telegram Bot – sends live snapshots  
+#### 🔴 Raspberry Pi 5 (C + Linux)  
+- ✅ LED Blinking via GPIO in C  
+- ✅ Ultrasonic Sensor Distance Measurement  
 
-- **🔊 Signal Processing**  
-  - Pulse Code Modulation Generator in C → `.raw` sinewave (Audacity verified)  
+#### 📷 ESP32-CAM  
+- ✅ Wireless Surveillance System using Telegram Bot – sends live image snapshots to Telegram  
 
-- **📿 Women Safety Device**  
-  - GSM + GPS + Keypad + EEPROM – SMS with live location + emergency call  
+#### 🔊 Signal Processing  
+- ✅ Pulse Code Modulation Generator in C → Generates `.raw` sinewave PCM file (verified in Audacity)  
+
+#### 📿 Women Safety Device  
+- ✅ GSM + GPS + Keypad + EEPROM integration – sends SMS with live location & emergency call on button press  
 
 ---
 
-## 📜 Certifications
-- **C Programming**, **8086 Microprocessor**, **ARM7 Microcontroller** – Bharat Acharya Education  
-- **ARM Cortex-M 101 & 102**, **C Mastery, Pointers, Bit Manipulation, DSA**, **GNU Makefile & Automation** – Pyjama Brah  
+### 📜 Certifications  
+
+- **C Programming** – Bharat Acharya Education  
+- **8086 Microprocessor** – Bharat Acharya Education  
+- **ARM7 Microcontroller** – Bharat Acharya Education  
+- **ARM Cortex-M 101 & 102** – Pyjama Brah  
+- **C Mastery, Pointers, Bit Manipulation, DSA** – Pyjama Brah  
+- **GNU Makefile & Automation** – Pyjama Brah  
 - **Introduction to C on Raspberry Pi** – Udemy  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 🌐 Website
-<p align="center">
-  <a href="https://gtustuy.com" target="_blank" rel="noopener">
-    <img src="https://img.icons8.com/fluency/96/domain.png" width="42" alt="Website"/> gtustuy.com
-  </a>
-</p>
+### 📢 Connect With Me  
 
----
-
-## 📢 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/ram-axay">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="42" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/your-linkedin-ram-axay">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
+  <span style="margin: 0 15px;"></span>
   <a href="mailto:axay19392@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42" alt="Gmail"/>
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" alt="Gmail"/>
   </a>
-  &nbsp;&nbsp;
+  <span style="margin: 0 15px;"></span>
   <a href="https://github.com/AxayRam">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="42" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/96/github.png" width="50" alt="GitHub"/>
   </a>
 </p>
