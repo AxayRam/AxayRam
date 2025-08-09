@@ -6,7 +6,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D7FF&center=true&vCenter=true&width=500&lines=Embedded+Systems+Expert;Firmware+Developer;Low-Level+C+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=550&lines=🚀+Embedded+Systems+Engineer;🛠+Firmware+%26+RTOS+Developer;💻+Low-Level+C+%26+ARM+Expert" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -22,7 +23,9 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com) 
+
 [![GitHub](https://img.shields.io/badge/GitHub-AxayRam-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam) 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axay-ram)
 
 </div>
