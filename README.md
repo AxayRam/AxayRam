@@ -43,11 +43,15 @@
 #### 🛠 Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=raspberrypi" width="60" style="margin-right:20px;"/>
+  
   <img src="https://skillicons.dev/icons?i=arduino" width="60" style="margin-right:20px;"/>
-  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" width="60" style="margin-right:20px;"/>
+ 
   <img src="https://skillicons.dev/icons?i=linux" width="60" style="margin-right:20px;"/>
+  
   <img src="https://skillicons.dev/icons?i=git" width="60" style="margin-right:20px;"/>
+  
   <img src="https://skillicons.dev/icons?i=github" width="60" style="margin-right:20px;"/>
+  
   <img src="https://skillicons.dev/icons?i=vscode" width="60" style="margin-right:20px;"/>
 </p>
 
