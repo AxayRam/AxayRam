@@ -22,22 +22,60 @@
 
 ### 🧰 Tech Stack  
 
-#### ⚙ Programming & Embedded
-<p>
-  <img src="https://skillicons.dev/icons?i=c" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=embeddedc" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=assembly" width="50" style="margin-right:15px;"/>
+#### ⚙ Programming & Embedded  
+<p align="center">
+  <figure>
+    <img src="https://skillicons.dev/icons?i=c" width="50"/>
+    <figcaption><sub>C Language</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=embeddedc" width="50"/>
+    <figcaption><sub>Embedded C</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=assembly" width="50"/>
+    <figcaption><sub>Assembly</sub></figcaption>
+  </figure>
 </p>
 
-#### 🛠 Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=stm32" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin-right:15px;"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin-right:15px;"/>
+#### 🛠 Tools & Frameworks  
+<p align="center">
+  <figure>
+    <img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/>
+    <figcaption><sub>Raspberry Pi</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=arduino" width="50"/>
+    <figcaption><sub>Arduino</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=stm32" width="50"/>
+    <figcaption><sub>STM32</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+    <figcaption><sub>Linux</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=git" width="50"/>
+    <figcaption><sub>Git</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=github" width="50"/>
+    <figcaption><sub>GitHub</sub></figcaption>
+  </figure>
+  <span style="margin:0 20px;"></span>
+  <figure>
+    <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+    <figcaption><sub>VS Code</sub></figcaption>
+  </figure>
 </p>
 
 ---
@@ -75,7 +113,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" height="180"/>
 </p>
 
 ---
