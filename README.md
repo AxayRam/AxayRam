@@ -59,19 +59,3 @@ I am a passionate and dedicated Electronics and Communication Engineering studen
 ---
 
 ![Axay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=onedark)
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
-          USERNAME: ${{ github.repository_owner }}
