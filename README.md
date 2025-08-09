@@ -1,15 +1,10 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Axay+Ram;Embedded+Systems+%7C+Firmware+Developer;Always+Building%2C+Always+Learning" alt="Typing Animation" />
+  👋 Hi, I'm Axay Ram  
 </h1>
-
 <h3 align="center">
-  ⚡ Electronics & Communication Engineering Student | Embedded C & Bare-Metal Programming Enthusiast
+  ⚡ Embedded Systems & Firmware Developer | Electronics & Communication Engineer
 </h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="150" height="150" alt="Embedded Systems"/>
-</p>
 
 ---
 
@@ -18,7 +13,7 @@
 - 🎓 Final Year Electronics & Communication Engineering Student  
 - 💻 Specializing in **Embedded Systems, Firmware, and Low-Level C**  
 - 🚀 Experienced in **Raspberry Pi, STM32, ESP32, ARM7, 8086**  
-- 🔍 Interested in **Bare-Metal Development, Drivers, and Real-Time Systems**  
+- 🔍 Passionate about **Bare-Metal Development, Drivers, and Real-Time Systems**  
 - 📧 Email: [axay19392@gmail.com](mailto:axay19392@gmail.com)  
 - 🌐 GitHub: [github.com/AxayRam](https://github.com/AxayRam)  
 - 💼 LinkedIn: [linkedin.com/in/your-linkedin-ram-axay](https://linkedin.com/in/your-linkedin-ram-axay)  
@@ -29,28 +24,20 @@
 
 #### ⚙ Programming & Embedded
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded%20C-008080?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50"/>
+  <img src="https://skillicons.dev/icons?i=embeddedc" width="50"/>
+  <img src="https://skillicons.dev/icons?i=assembly" width="50"/>
 </p>
 
 #### 🛠 Tools & Frameworks
 <p>
-  <img src="https://img.shields.io/badge/GCC-FF6600?style=for-the-badge&logo=gnu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDB-DAA520?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GNU%20Make-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</p>
-
-#### 🖥 Development Environment
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell%20Scripting-333333?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="50"/>
+  <img src="https://skillicons.dev/icons?i=stm32" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
 </p>
 
 ---
@@ -91,14 +78,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AxayRam&theme=tokyonight" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AxayRam&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
 ---
 
 ### 📢 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-ram-axay)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AxayRam)
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-ram-axay)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AxayRam)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
