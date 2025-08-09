@@ -24,20 +24,20 @@
 
 #### ⚙ Programming & Embedded
 <p>
-  <img src="https://skillicons.dev/icons?i=c" width="50"/>
-  <img src="https://skillicons.dev/icons?i=embeddedc" width="50"/>
-  <img src="https://skillicons.dev/icons?i=assembly" width="50"/>
+  <img src="https://skillicons.dev/icons?i=c" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=embeddedc" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=assembly" width="50" style="margin-right:15px;"/>
 </p>
 
 #### 🛠 Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/>
-  <img src="https://skillicons.dev/icons?i=arduino" width="50"/>
-  <img src="https://skillicons.dev/icons?i=stm32" width="50"/>
-  <img src="https://skillicons.dev/icons?i=linux" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=arduino" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=stm32" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50" style="margin-right:15px;"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" style="margin-right:15px;"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ---
 
-### 📊 GitHub Stats & Activity  
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
@@ -82,6 +82,16 @@
 
 ### 📢 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin-ram-axay)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/AxayRam)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-ram-axay">
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+  <span style="margin: 0 15px;"></span>
+  <a href="mailto:axay19392@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="50" alt="Gmail"/>
+  </a>
+  <span style="margin: 0 15px;"></span>
+  <a href="https://github.com/AxayRam">
+    <img src="https://img.icons8.com/fluency/96/github.png" width="50" alt="GitHub"/>
+  </a>
+</p>
