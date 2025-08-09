@@ -16,7 +16,7 @@
 
 - 🎓 **Final Year Electronics & Communication Engineering Student**  
 - 💻 **Specializing in Embedded Systems, Firmware, and Low-Level C Programming**  
-- 🚀 **Experienced with Raspberry Pi, STM32, ESP32, ARM7, 8086 Microcontrollers**  
+- 🚀 **Experienced with Raspberry Pi, STM32, ESP32, ARM7, 8086, Arduino Mega**  
 - 🔍 **Passionate about Bare-Metal Development, Device Drivers, and Real-Time Systems**  
 - ⚡ **Focus on Hardware-Software Integration and System Optimization**  
 
@@ -35,7 +35,6 @@
 #### ⚙ Programming & Embedded
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c" width="60" style="margin-right:20px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" style="margin-right:20px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" width="60" style="margin-right:20px;"/>
 </p>
 
@@ -71,6 +70,14 @@
 #### 📿 **Women Safety Device**  
 - ✅ **GSM + GPS + Keypad + EEPROM Integration** – Multi-module embedded system coordination
 - ✅ **Emergency Response System** - One-button SOS with live location tracking and SMS automation
+
+#### 🔧 **Arduino Mega Projects**
+- ✅ **Multi-Sensor Data Acquisition** - Real-time sensor monitoring and data logging
+- ✅ **Hardware Interface Programming** - Serial communication and peripheral control
+
+#### ⚡ **ESP32 Development**
+- ✅ **WiFi-based IoT Applications** - Wireless communication and web server implementation
+- ✅ **Bluetooth Integration** - Device-to-device communication protocols
 
 ---
 
