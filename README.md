@@ -26,7 +26,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-AxayRam-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-ram-axay)
+[![LinkedIn](https://linkedin.com/in/your-linkedin-ram-axay)(https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 </div>
 
