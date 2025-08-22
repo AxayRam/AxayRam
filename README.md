@@ -12,7 +12,7 @@
 
 - 🎓 **Final Year Electronics & Communication Engineering Student**  
 - 💻 **Specializing in Embedded Systems, Firmware, and Low-Level C Programming**  
-- 🚀 **Experienced with Raspberry Pi, STM32 (ARM7), ESP32, 8086 Microprocessor, and Arduino Mega**  
+- 🚀 **Experienced with Raspberry Pi, ARM7, ESP32, 8086 Microprocessor, and Arduino Mega**  
 - 🔍 **Passionate about Bare-Metal Development, Device Drivers, and Real-Time Systems**  
 - ⚡ **Focus on hardware-software integration, and system optimization**  
 
