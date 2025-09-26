@@ -110,7 +110,6 @@
 - 🔬 **Advanced ARM Cortex-M Programming** - Exploring bare-metal development techniques  
 - 🚀 **Real-Time Operating Systems** - FreeRTOS implementation and optimization  
 - 🛠️ **Custom Device Drivers** - Linux kernel module development  
-- 📡 **IoT Communication Protocols** - MQTT, CoAP implementation  
 - ⚡ **Performance Optimization** - Memory management and system efficiency  
 
 ---
