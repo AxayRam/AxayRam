@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=git" width="60" style="margin-right:20px;"/>  
   <img src="https://skillicons.dev/icons?i=github" width="60" style="margin-right:20px;"/>  
   <img src="https://skillicons.dev/icons?i=vscode" width="60" style="margin-right:20px;"/>
+  <img src="https://raw.githubusercontent.com/AxayRam/icons/main/picsimlab.png" width="60" style="margin-right:20px;" alt="PICSIMLab"/>
 </p>
 
 **Core Expertise:** ARM Architecture | BASIC RTOS Development | Device Drivers | Signal Processing | Hardware Debugging | System Programming | Arduino Mega | ESP32-CAM | LINKER SCRIPT | 8086 Architecture 
