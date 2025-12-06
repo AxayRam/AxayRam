@@ -2,282 +2,247 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Axay Ram - Embedded Systems & Firmware Developer</title>
+<title>Axay Ram - Embedded Systems Developer</title>
+
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        background: #0d1117;
-        color: #e6edf3;
-        line-height: 1.6;
-        padding: 20px;
+    body{
+        margin:0;
+        padding:0;
+        background:#0d1117;
+        color:#e6edf3;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        line-height:1.7;
     }
-    h1, h2, h3 {
-        text-align: center;
-        color: #58a6ff;
+
+    h1, h2, h3{
+        text-align:center;
+        color:#58a6ff;
     }
-    .section {
-        margin: 40px 0;
-        padding: 20px;
-        background: #161b22;
-        border-radius: 10px;
-        border: 1px solid #30363d;
+
+    .container{
+        max-width:1100px;
+        margin:auto;
+        padding:30px;
     }
-    ul {
-        margin-left: 30px;
+
+    .card{
+        background:#161b22;
+        border:1px solid #30363d;
+        padding:25px;
+        margin:25px 0;
+        border-radius:12px;
+        box-shadow:0px 0px 10px rgba(0,0,0,0.3);
     }
-    table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 15px;
+
+    ul{
+        margin-left:25px;
     }
-    table, th, td {
-        border: 1px solid #30363d;
-        padding: 10px;
-        text-align: left;
+
+    .table-box{
+        overflow-x:auto;
     }
-    th {
-        background: #21262d;
-        color: #58a6ff;
+
+    table{
+        width:100%;
+        border-collapse:collapse;
+        margin-top:20px;
     }
-    a {
-        color: #58a6ff;
-        text-decoration: none;
+
+    th, td{
+        border:1px solid #30363d;
+        padding:12px;
     }
-    .center {
-        text-align: center;
+
+    th{
+        background:#1f242d;
+        color:#58a6ff;
+        text-align:left;
+    }
+
+    a{
+        color:#58a6ff;
+        text-decoration:none;
+        font-weight:bold;
+    }
+
+    .center{
+        text-align:center;
+    }
+
+    .badge{
+        display:inline-block;
+        padding:8px 15px;
+        border-radius:20px;
+        background:#1f6feb;
+        margin:5px;
+        color:white;
+        font-size:14px;
     }
 </style>
 </head>
+
 <body>
 
-<h1>Axay Ram — Embedded Systems & Firmware Developer</h1>
-<h3>Electronics & Communication Engineering | IoT | Bare-Metal | Linux | C Programming</h3>
+<div class="container">
 
-<div class="section">
+<h1>Axay Ram</h1>
+<h3>Embedded Systems & Firmware Developer</h3>
+<h3>Electronics & Communication Engineering | IoT | ARM | Linux | C</h3>
+
+<div class="card">
 <h2>🚀 About Me</h2>
 <p>
-I am an Electronics & Communication Engineering student specializing in <b>Embedded Systems, Firmware Development, and IoT Solutions</b>.
-I completed my IoT Internship at <b>Emertxe Information Technologies</b>, where I built a complete 
-<b>Smart Home Automation System</b> using Blynk, sensors, relays, Ethernet Shield, and Embedded C.
+I am an Electronics & Communication Engineering student specializing in 
+<b>Embedded Systems, Firmware Development, and IoT Solutions</b>. I completed my IoT Internship at 
+<b>Emertxe Information Technologies</b>, where I built a full <b>Smart Home Automation System</b> using Blynk, LM35, LDR, Ethernet Shield, and Embedded C.
 </p>
 
-<p>I work across hardware + firmware + IoT integration with strengths in:</p>
+<p>I work across Hardware + Firmware + Software with skills in:</p>
 
 <ul>
-    <li>Embedded C & Microcontroller Programming</li>
-    <li>IoT Cloud Integration (Blynk, MQTT, HTTP)</li>
-    <li>ARM Architecture & Bare-Metal Concepts</li>
-    <li>Linux, Raspberry Pi & Low-Level C</li>
-    <li>GSM/GPS systems & Multi-sensor Automation</li>
+    <li>Embedded C, Microcontrollers & ARM Architecture</li>
+    <li>IoT Cloud (Blynk, MQTT, HTTP)</li>
+    <li>Linux Systems & Raspberry Pi</li>
+    <li>GSM/GPS based Embedded Systems</li>
+    <li>Real–Time Processing & Optimization</li>
 </ul>
 </div>
 
-<div class="section">
+<div class="card">
 <h2>🛠 Technical Skills</h2>
 
 <h3>Programming</h3>
-<ul>
-    <li>C Programming (Advanced)</li>
-    <li>Embedded C</li>
-    <li>Assembly (8086 & ARM)</li>
-    <li>Linux Shell</li>
-</ul>
+<span class="badge">C Programming</span>
+<span class="badge">Embedded C</span>
+<span class="badge">ARM Assembly</span>
+<span class="badge">8086 Assembly</span>
+<span class="badge">Linux Shell</span>
 
 <h3>Embedded Platforms</h3>
-<ul>
-    <li>ESP32 / ESP8266</li>
-    <li>Raspberry Pi</li>
-    <li>Arduino UNO / Mega</li>
-    <li>ARM7</li>
-    <li>8086 Microprocessor</li>
-</ul>
+<span class="badge">ESP32 / ESP8266</span>
+<span class="badge">Raspberry Pi</span>
+<span class="badge">Arduino UNO / Mega</span>
+<span class="badge">ARM7</span>
+<span class="badge">8086 Microprocessor</span>
 
 <h3>Tools</h3>
-<ul>
-    <li>Git & GitHub</li>
-    <li>VS Code</li>
-    <li>PlatformIO</li>
-    <li>GNU Toolchain</li>
-    <li>Proteus / Tinkercad</li>
-</ul>
+<span class="badge">Git</span>
+<span class="badge">GitHub</span>
+<span class="badge">VS Code</span>
+<span class="badge">PlatformIO</span>
+<span class="badge">Proteus</span>
 
 <h3>Protocols & Communication</h3>
-<ul>
-    <li>UART, SPI, I2C</li>
-    <li>WiFi, Bluetooth</li>
-    <li>MQTT, HTTP</li>
-    <li>GSM, GPS</li>
-</ul>
-
-<h3>Core Competencies</h3>
-<ul>
-    <li>Interrupts & Timers</li>
-    <li>Bare-Metal Programming</li>
-    <li>Memory Mapping</li>
-    <li>Linker Scripts</li>
-    <li>Sensor Interfacing</li>
-    <li>RTOS Basics</li>
-</ul>
+<span class="badge">UART</span>
+<span class="badge">SPI</span>
+<span class="badge">I2C</span>
+<span class="badge">WiFi</span>
+<span class="badge">Bluetooth</span>
+<span class="badge">MQTT</span>
+<span class="badge">HTTP</span>
+<span class="badge">GSM</span>
+<span class="badge">GPS</span>
 </div>
 
-<div class="section">
-<h2>📂 Projects</h2>
+<div class="card">
+<h2>📂 Major Projects</h2>
 
-<h3>🔥 Smart Home Automation System (Emertxe IoT Internship)</h3>
+<h3>🔥 Smart Home Automation System (Emertxe Internship)</h3>
 <ul>
-    <li>Blynk App Control</li>
-    <li>Temperature Monitoring (LM35) + Auto Safety Cutoff</li>
-    <li>LDR-Based Auto Lighting</li>
-    <li>Water Tank Valve Control + Level Monitoring</li>
-    <li>Real-Time LCD Status Display</li>
-    <li>Ethernet-Based Reliable IoT Connectivity</li>
-    <li>Manual + Auto Mode Switching</li>
+    <li>Blynk App-based Remote Control</li>
+    <li>Temperature Monitoring (LM35) + Auto Cutoff</li>
+    <li>LDR Auto Light System</li>
+    <li>Water Tank Level + Motor Control</li>
+    <li>Ethernet Shield-based stable IoT Communication</li>
+    <li>LCD Real-Time Display System</li>
 </ul>
 
-<h4>Tech Stack</h4>
-<p>Arduino / ESP32 • Blynk • LM35 • LDR • Relays • Ethernet Shield • Embedded C</p>
+<h4>Tech Stack:</h4>
+<p>Arduino / ESP32, Blynk, LM35, LDR, Relays, Embedded C, Ethernet Shield</p>
 
-<h4>Responsibilities</h4>
+<hr style="border:1px solid #30363d;">
+
+<h3>📸 ESP32-CAM Wireless Surveillance</h3>
 <ul>
-    <li>Sensor driver development</li>
-    <li>Blynk dashboard creation</li>
-    <li>Relay safety control logic</li>
-    <li>Ethernet reconnect logic</li>
-    <li>LCD menu system</li>
-    <li>Hardware debugging</li>
+    <li>Telegram Bot Alerts</li>
+    <li>Motion Based Snapshot</li>
 </ul>
 
-<hr>
-
-<h3>📸 ESP32-CAM Wireless Surveillance System</h3>
+<h3>💾 PCM Audio Generator (C Language)</h3>
 <ul>
-    <li>Telegram Bot Integration</li>
-    <li>Motion-Based Alerts</li>
-    <li>Real-Time Image Transmission</li>
-</ul>
-
-<h3>💾 PCM (Pulse Code Modulation) Generator – C Project</h3>
-<ul>
-    <li>Generates raw audio files in C</li>
-    <li>Custom PCM encoder implementation</li>
-    <li>Audacity verified output</li>
+    <li>Generates RAW audio (PCM)</li>
+    <li>Audacity Plot Verification</li>
 </ul>
 
 <h3>📡 Women Safety Device</h3>
 <ul>
-    <li>GSM + GPS + EEPROM + Keypad</li>
-    <li>Live Location SMS System</li>
-    <li>Emergency One-Press Alert</li>
+    <li>SIM800L GSM + GPS Tracking</li>
+    <li>Keypad Input + EEPROM Storage</li>
 </ul>
 
 <h3>🧪 Raspberry Pi Projects</h3>
 <ul>
-    <li>Bare-Metal GPIO LED Control</li>
-    <li>Ultrasonic Sensor Measurement</li>
-</ul>
-
-<h3>🔌 Arduino Mega Multi-Sensor System</h3>
-<ul>
-    <li>Data Logging</li>
-    <li>Real-Time Sensor Monitoring</li>
-    <li>Serial Stream Interface</li>
+    <li>GPIO LED Control (Bare Metal C)</li>
+    <li>Ultrasonic Distance Measurement</li>
 </ul>
 </div>
 
-<div class="section">
+<div class="card">
 <h2>🏢 Experience</h2>
 
 <h3>IoT Intern — Emertxe Information Technologies</h3>
 <ul>
-    <li>Completed intensive 1-month IoT internship</li>
-    <li>Developed complete Smart Home Automation System</li>
-    <li>Integrated sensors, relays, LCD, Blynk & Ethernet</li>
-    <li>Learned SDLC for embedded project development</li>
+    <li>Worked on full Smart Home Automation Product</li>
+    <li>Sensor Drivers + Cloud + LCD UI Integration</li>
+    <li>Implemented Reconnect Logic for IoT Stability</li>
+    <li>Hands-on with Embedded Debugging & SDLC</li>
 </ul>
 </div>
 
-<div class="section">
+<div class="card">
 <h2>🎓 Certifications</h2>
 
+<div class="table-box">
 <table>
 <tr>
 <th>Certification</th>
 <th>Institute</th>
-<th>Focus Area</th>
+<th>Focus</th>
 </tr>
 
-<tr>
-<td>IoT Internship</td>
-<td>Emertxe</td>
-<td>Smart Home Automation</td>
-</tr>
+<tr><td>IoT Internship</td><td>Emertxe</td><td>Smart Home Automation</td></tr>
+<tr><td>Advanced C Programming</td><td>BAE</td><td>Pointers, C Internals</td></tr>
+<tr><td>8086 Microprocessor</td><td>BAE</td><td>Assembly & Architecture</td></tr>
+<tr><td>ARM7 Microcontroller</td><td>BAE</td><td>Embedded ARM</td></tr>
+<tr><td>ARM Cortex-M 101/102</td><td>PyjamaBrah</td><td>ARM Fundamentals</td></tr>
+<tr><td>C Mastery + Bit Magic</td><td>PyjamaBrah</td><td>Low-level Programming</td></tr>
+<tr><td>GNU Makefile</td><td>PyjamaBrah</td><td>Automation & Build Systems</td></tr>
+<tr><td>C on Raspberry Pi</td><td>Udemy</td><td>Bare-metal GPIO</td></tr>
 
-<tr>
-<td>Advanced C Programming</td>
-<td>Bharat Acharya Education</td>
-<td>C, Pointers, Memory</td>
-</tr>
-
-<tr>
-<td>8086 Microprocessor</td>
-<td>Bharat Acharya Education</td>
-<td>Assembly + Architecture</td>
-</tr>
-
-<tr>
-<td>ARM7 Microcontroller</td>
-<td>Bharat Acharya</td>
-<td>ARM Embedded</td>
-</tr>
-
-<tr>
-<td>ARM Cortex-M 101/102</td>
-<td>PyjamaBrah</td>
-<td>ARM Fundamentals</td>
-</tr>
-
-<tr>
-<td>C Mastery + Bit Magic + DSA</td>
-<td>PyjamaBrah</td>
-<td>Low-Level Programming</td>
-</tr>
-
-<tr>
-<td>GNU Makefile</td>
-<td>PyjamaBrah</td>
-<td>Build Automation</td>
-</tr>
-
-<tr>
-<td>C on Raspberry Pi</td>
-<td>Udemy</td>
-<td>Bare-Metal GPIO</td>
-</tr>
 </table>
 </div>
+</div>
 
-<div class="section center">
+<div class="card center">
 <h2>📊 GitHub Analytics</h2>
-
 <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170">
 </div>
 
-<div class="section">
+<div class="card">
 <h2>🎯 Current Focus</h2>
 <ul>
-    <li>ARM Cortex-M Bare-Metal Development</li>
-    <li>Linux Kernel Drivers</li>
-    <li>FreeRTOS Tasks & Interrupts</li>
-    <li>IoT Security & Encryption</li>
-    <li>HAL & Firmware Optimization</li>
+<li>ARM Cortex-M Bare Metal Development</li>
+<li>Linux Kernel Drivers</li>
+<li>FreeRTOS Task Scheduling</li>
+<li>HAL Layer Design</li>
+<li>IoT Device Security</li>
 </ul>
 </div>
 
-<div class="section center">
+<div class="card center">
 <h2>🌐 Connect With Me</h2>
-
 <p>
 <a href="https://linkedin.com/in/axay-ram">LinkedIn</a> |
 <a href="mailto:axay19392@gmail.com">Gmail</a> |
@@ -288,5 +253,6 @@ I completed my IoT Internship at <b>Emertxe Information Technologies</b>, where 
 <img src="https://komarev.com/ghpvc/?username=AxayRam&color=blueviolet&style=flat-square&label=Profile+Views">
 </div>
 
+</div>
 </body>
 </html>
