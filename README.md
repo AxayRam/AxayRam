@@ -3,60 +3,69 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Embedded+Systems+%7C+Firmware+Developer;Electronics+and+Communication+Engineering+Student;IoT+%7C+ARM+%7C+Linux+%7C+C+Programming" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer+%7C+Firmware+Developer;IoT+%7C+ARM+%7C+Linux+%7C+RTOS+Enthusiast;Building+Smart+and+Connected+Embedded+Solutions" />
 </p>
 
 ---
 
-<h1 align="center">👨‍💻 Axay Ram — Embedded Systems & Firmware Developer</h1>
-<h3 align="center">Electronics & Communication Engineering | IoT | ARM | Linux | C</h3>
+<h1 align="center">👨‍💻 Axay Ram — Embedded & IoT Systems Developer</h1>
+<h3 align="center">Electronics & Communication Engineering | Embedded C | IoT | ARM Cortex | Linux</h3>
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,linux,raspberrypi,arduino,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,arduino,git,github,vscode" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I specialize in **Embedded Systems, Firmware Development, and IoT Solutions**.  
-I completed my **IoT Internship at Emertxe**, where I built a complete  
-**Smart Home Automation System** using Blynk, LM35, LDR, Ethernet Shield, and Embedded C.
+I am an aspiring **Embedded Systems & Firmware Engineer** passionate about building  
+**real-world hardware–software integrated systems**.
 
-- Embedded C, ARM Architecture, Microcontrollers  
-- IoT Cloud (Blynk, MQTT, HTTP)  
-- Linux Systems & Raspberry Pi  
-- GSM/GPS & Real-Time Embedded Systems  
+I recently completed my **IoT Internship at Emertxe**, developing a  
+**full-stack Smart Home Automation System** featuring sensor networks, cloud control,  
+Blynk dashboards, Ethernet-based stability, and modular Embedded C firmware.
+
+I enjoy working on:
+
+- Low-level programming & microcontroller architecture  
+- Protocols, sensor interfacing, and embedded communication  
+- IoT automation & cloud-connected smart systems  
+- Linux based development & Bare-Metal concepts  
+- Real-time systems, performance tuning & debugging  
+
+I’m constantly learning, experimenting, and pushing myself toward becoming a  
+**professional Embedded Engineer for high-performance systems.**
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 🔹 Programming
-- **C Programming (Advanced)**  
+- **C (Advanced Level)**  
 - Embedded C  
 - ARM & 8086 Assembly  
-- Linux Shell  
+- Linux Shell Scripting  
 
 ### 🔹 Embedded Platforms
 - ESP32 / ESP8266  
-- Raspberry Pi  
+- Raspberry Pi (Linux + C)  
 - Arduino UNO / Mega  
-- ARM7  
+- ARM7 Systems  
 - 8086 Microprocessor  
 
-### 🔹 Tools
-- Git & GitHub  
+### 🔹 Tools & IDEs
+- Git, GitHub  
 - VS Code  
 - PlatformIO  
-- Proteus / Tinkercad  
+- Proteus, Tinkercad  
 
-### 🔹 Protocols & Communication
+### 🔹 Protocols & Interfaces
 - UART, SPI, I2C  
 - WiFi, Bluetooth  
-- MQTT, HTTP  
+- MQTT, HTTP/REST  
 - GSM, GPS  
 
 ---
@@ -64,42 +73,56 @@ I completed my **IoT Internship at Emertxe**, where I built a complete
 ## 📂 Major Projects
 
 ### 🔥 Smart Home Automation System (Emertxe Internship)
-- Blynk App-Based Remote Control  
-- Temperature Monitoring (LM35) + Auto Cutoff  
-- LDR-Based Lighting Automation  
-- Water Level + Motor Control  
-- Ethernet Shield-based Stable IoT Connectivity  
-- LCD Display for Real-Time Status  
+Designed and developed a reliable & scalable home automation system with:
 
-**Tech Stack:** `Arduino / ESP32`, `Blynk`, `LM35`, `LDR`, `Relays`, `Ethernet Shield`, `Embedded C`
+- Blynk App-based wireless control  
+- LM35 temperature-based automatic appliance protection  
+- LDR-driven lighting automation  
+- Water tank monitoring + valve control system  
+- Ethernet Shield ensured stable IoT connectivity  
+- LCD used for sensor diagnostics & live system status  
+
+**Tech Stack:**  
+`Embedded C`, `Arduino/ESP32`, `LM35`, `LDR`, `Relays`, `Ethernet Shield`, `Blynk`
 
 ---
 
 ### 📸 ESP32-CAM Wireless Surveillance
-- Telegram Bot Alerts  
-- Motion-Based Auto Capture  
+- Telegram Bot–based monitoring  
+- Motion-triggered image capture  
+- Lightweight IoT camera system  
 
-### 💾 PCM Audio Generator (C)
-- Generates RAW PCM Audio  
-- Verified in Audacity  
+---
 
-### 📡 Women Safety Device
-- SIM800L GSM + GPS Tracking  
-- Keypad Input + EEPROM Storage  
+### 💾 PCM Audio Generator (C Language)
+- Custom PCM waveform generator  
+- RAW audio file output verified using Audacity  
+- Strong understanding of encoding techniques  
+
+---
+
+### 📡 Women Safety Device (GSM + GPS + EEPROM)
+- SIM800L GSM alerts with live location  
+- GPS NEO-6M tracking  
+- 4×4 Keypad + EEPROM emergency number storage  
+
+---
 
 ### 🧪 Raspberry Pi Projects
-- GPIO Bare-Metal LED Control (C)  
-- Ultrasonic Distance Measurement  
+- Bare-metal GPIO LED control in C  
+- Ultrasonic sensor distance measurement  
+- Timing, interrupts & Linux GPIO handling  
 
 ---
 
 ## 🏢 Experience
 
 ### 💼 IoT Intern — Emertxe Information Technologies
-- Developed full Smart Home Automation System  
-- Integrated sensors, relays, LCD, Blynk & Ethernet  
-- Implemented network reconnect logic for IoT stability  
-- Hands-on debugging + SDLC-based development  
+- Built full Home Automation IoT System from scratch  
+- Wrote sensor drivers, relay control logic & Blynk interface  
+- Designed reconnect logic for network reliability  
+- Followed SDLC for embedded software  
+- Hands-on debugging, testing & code optimization  
 
 ---
 
@@ -107,14 +130,14 @@ I completed my **IoT Internship at Emertxe**, where I built a complete
 
 <table>
 <tr><th>Certification</th><th>Institute</th><th>Focus</th></tr>
-<tr><td>IoT Internship</td><td>Emertxe</td><td>Smart Home Automation</td></tr>
-<tr><td>Advanced C Programming</td><td>BAE</td><td>Pointers, C Internals</td></tr>
-<tr><td>8086 Microprocessor</td><td>BAE</td><td>Assembly & Architecture</td></tr>
-<tr><td>ARM7 Microcontroller</td><td>BAE</td><td>Embedded ARM</td></tr>
-<tr><td>ARM Cortex-M 101/102</td><td>PyjamaBrah</td><td>ARM Fundamentals</td></tr>
-<tr><td>C Mastery + Bit Magic</td><td>PyjamaBrah</td><td>Low-level Programming</td></tr>
-<tr><td>GNU Makefile</td><td>PyjamaBrah</td><td>Automation</td></tr>
-<tr><td>C on Raspberry Pi</td><td>Udemy</td><td>Bare-metal GPIO</td></tr>
+<tr><td>IoT Internship</td><td>Emertxe</td><td>Embedded IoT & Automation</td></tr>
+<tr><td>Advanced C Programming</td><td>BAE</td><td>Pointers, Memory, Advanced C</td></tr>
+<tr><td>8086 Microprocessor</td><td>BAE</td><td>Assembly, Architecture</td></tr>
+<tr><td>ARM7 Microcontroller</td><td>BAE</td><td>Low-level ARM Programming</td></tr>
+<tr><td>ARM Cortex-M 101/102</td><td>PyjamaBrah</td><td>ARM Architecture Essentials</td></tr>
+<tr><td>C Mastery + Bit Magic</td><td>PyjamaBrah</td><td>Low-level C Mastery</td></tr>
+<tr><td>GNU Makefile</td><td>PyjamaBrah</td><td>Build Automation</td></tr>
+<tr><td>C on Raspberry Pi</td><td>Udemy</td><td>Bare-metal GPIO Operations</td></tr>
 </table>
 
 ---
@@ -131,11 +154,11 @@ I completed my **IoT Internship at Emertxe**, where I built a complete
 
 ## 🎯 Current Focus
 
-- ARM Cortex-M Bare Metal Development  
-- Linux Kernel Drivers  
-- FreeRTOS Task Scheduling  
-- IoT Device Security  
-- HAL Layer Design  
+- ARM Cortex-M Bare-Metal Development  
+- Linux Kernel Drivers (Char Drivers)  
+- FreeRTOS Tasks, Queues & Timers  
+- IoT Device Security & Encryption  
+- HAL Layer Design & Optimization  
 
 ---
 
