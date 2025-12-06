@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=140&section=header&text=Axay%20Ram&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Embedded+Systems+Engineer+%7C+Firmware+Developer;IoT+%7C+ARM+%7C+Linux+%7C+RTOS+Enthusiast;Building+Smart+and+Connected+Embedded+Solutions" />
-</p>
-
----
 
 <h1 align="center">👨‍💻 Axay Ram — Embedded & IoT Systems Developer</h1>
 <h3 align="center">Electronics & Communication Engineering | Embedded C | IoT | ARM Cortex | Linux</h3>
