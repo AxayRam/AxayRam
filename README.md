@@ -1,104 +1,109 @@
-<h1 align="center">Axay Ram — Embedded Systems & Firmware Developer</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e3c72,100:2a5298&height=140&section=header&text=Axay%20Ram&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Embedded+Systems+%7C+Firmware+Developer;Electronics+and+Communication+Engineering+Student;IoT+%7C+ARM+%7C+Linux+%7C+C+Programming" />
+</p>
+
+---
+
+<h1 align="center">👨‍💻 Axay Ram — Embedded Systems & Firmware Developer</h1>
 <h3 align="center">Electronics & Communication Engineering | IoT | ARM | Linux | C</h3>
 
-<br>
+---
 
-<h2>🚀 About Me</h2>
-<p>
-I specialize in <b>Embedded Systems, Firmware Development, and IoT Solutions</b>.  
-I completed my IoT Internship at <b>Emertxe</b> where I built a complete 
-<b>Smart Home Automation System</b> using Blynk, LM35, LDR, Ethernet Shield, and Embedded C.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,linux,raspberrypi,arduino,git,github,vscode" />
 </p>
 
-<ul>
-    <li>Embedded C, ARM Architecture, Microcontrollers</li>
-    <li>IoT Cloud (Blynk, MQTT, HTTP)</li>
-    <li>Linux Systems & Raspberry Pi</li>
-    <li>GSM/GPS & Real-Time Embedded Systems</li>
-</ul>
+---
 
-<hr>
+## 🚀 About Me
 
-<h2>🛠 Technical Skills</h2>
+I specialize in **Embedded Systems, Firmware Development, and IoT Solutions**.  
+I completed my **IoT Internship at Emertxe**, where I built a complete  
+**Smart Home Automation System** using Blynk, LM35, LDR, Ethernet Shield, and Embedded C.
 
-<h3>Programming</h3>
-<p>
-<b>C Programming</b> • Embedded C • ARM Assembly • 8086 Assembly • Linux Shell
-</p>
+- Embedded C, ARM Architecture, Microcontrollers  
+- IoT Cloud (Blynk, MQTT, HTTP)  
+- Linux Systems & Raspberry Pi  
+- GSM/GPS & Real-Time Embedded Systems  
 
-<h3>Embedded Platforms</h3>
-<p>
-ESP32/ESP8266 • Raspberry Pi • Arduino UNO/Mega • ARM7 • 8086
-</p>
+---
 
-<h3>Tools</h3>
-<p>
-Git • GitHub • VS Code • PlatformIO • Proteus
-</p>
+## 🛠 Technical Skills
 
-<h3>Protocols & Communication</h3>
-<p>
-UART • SPI • I2C • WiFi • Bluetooth • MQTT • HTTP • GSM • GPS
-</p>
+### 🔹 Programming
+- **C Programming (Advanced)**  
+- Embedded C  
+- ARM & 8086 Assembly  
+- Linux Shell  
 
-<hr>
+### 🔹 Embedded Platforms
+- ESP32 / ESP8266  
+- Raspberry Pi  
+- Arduino UNO / Mega  
+- ARM7  
+- 8086 Microprocessor  
 
-<h2>📂 Major Projects</h2>
+### 🔹 Tools
+- Git & GitHub  
+- VS Code  
+- PlatformIO  
+- Proteus / Tinkercad  
 
-<h3>🔥 Smart Home Automation System (Emertxe)</h3>
-<ul>
-    <li>Blynk App-Based Remote Control</li>
-    <li>Temperature Monitoring (LM35) + Auto Cutoff</li>
-    <li>LDR-Based Lighting Automation</li>
-    <li>Water Level + Motor Control</li>
-    <li>Ethernet Shield Stable IoT Connectivity</li>
-    <li>LCD Display for Real-Time Updates</li>
-</ul>
+### 🔹 Protocols & Communication
+- UART, SPI, I2C  
+- WiFi, Bluetooth  
+- MQTT, HTTP  
+- GSM, GPS  
 
-<h4>Tech Stack:</h4>
-<p>Arduino/ESP32 • Blynk • LM35 • LDR • Relays • Ethernet Shield • Embedded C</p>
+---
 
-<br>
+## 📂 Major Projects
 
-<h3>📸 ESP32-CAM Wireless Surveillance</h3>
-<ul>
-    <li>Telegram Bot Alerts</li>
-    <li>Motion-Based Auto Capture</li>
-</ul>
+### 🔥 Smart Home Automation System (Emertxe Internship)
+- Blynk App-Based Remote Control  
+- Temperature Monitoring (LM35) + Auto Cutoff  
+- LDR-Based Lighting Automation  
+- Water Level + Motor Control  
+- Ethernet Shield-based Stable IoT Connectivity  
+- LCD Display for Real-Time Status  
 
-<h3>💾 PCM Audio Generator (C Language)</h3>
-<ul>
-    <li>Generates RAW PCM Audio</li>
-    <li>Verified using Audacity</li>
-</ul>
+**Tech Stack:** `Arduino / ESP32`, `Blynk`, `LM35`, `LDR`, `Relays`, `Ethernet Shield`, `Embedded C`
 
-<h3>📡 Women Safety Device</h3>
-<ul>
-    <li>SIM800L GSM + GPS Tracking</li>
-    <li>Keypad Input + EEPROM Storage</li>
-</ul>
+---
 
-<h3>🧪 Raspberry Pi Projects</h3>
-<ul>
-    <li>GPIO Bare-Metal LED Control</li>
-    <li>Ultrasonic Distance Measurement</li>
-</ul>
+### 📸 ESP32-CAM Wireless Surveillance
+- Telegram Bot Alerts  
+- Motion-Based Auto Capture  
 
-<hr>
+### 💾 PCM Audio Generator (C)
+- Generates RAW PCM Audio  
+- Verified in Audacity  
 
-<h2>🏢 Experience</h2>
+### 📡 Women Safety Device
+- SIM800L GSM + GPS Tracking  
+- Keypad Input + EEPROM Storage  
 
-<h3>IoT Intern — Emertxe</h3>
-<ul>
-    <li>Developed full Smart Home Automation System</li>
-    <li>Integrated sensors, relays, LCD, Blynk & Ethernet</li>
-    <li>Implemented network reconnect logic for IoT</li>
-    <li>Hands-on debugging + SDLC workflow</li>
-</ul>
+### 🧪 Raspberry Pi Projects
+- GPIO Bare-Metal LED Control (C)  
+- Ultrasonic Distance Measurement  
 
-<hr>
+---
 
-<h2>🎓 Certifications</h2>
+## 🏢 Experience
+
+### 💼 IoT Intern — Emertxe Information Technologies
+- Developed full Smart Home Automation System  
+- Integrated sensors, relays, LCD, Blynk & Ethernet  
+- Implemented network reconnect logic for IoT stability  
+- Hands-on debugging + SDLC-based development  
+
+---
+
+## 🎓 Certifications
 
 <table>
 <tr><th>Certification</th><th>Institute</th><th>Focus</th></tr>
@@ -112,31 +117,32 @@ UART • SPI • I2C • WiFi • Bluetooth • MQTT • HTTP • GSM • GPS
 <tr><td>C on Raspberry Pi</td><td>Udemy</td><td>Bare-metal GPIO</td></tr>
 </table>
 
-<hr>
+---
 
-<h2>📊 GitHub Analytics</h2>
+## 📊 GitHub Analytics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-<hr>
+---
 
-<h2>🎯 Current Focus</h2>
-<ul>
-<li>ARM Cortex-M Bare Metal Development</li>
-<li>Linux Kernel Drivers</li>
-<li>FreeRTOS Task Scheduling</li>
-<li>IoT Device Security</li>
-<li>HAL Layer Design</li>
-</ul>
+## 🎯 Current Focus
 
-<hr>
+- ARM Cortex-M Bare Metal Development  
+- Linux Kernel Drivers  
+- FreeRTOS Task Scheduling  
+- IoT Device Security  
+- HAL Layer Design  
 
-<h2>🌐 Connect With Me</h2>
-<p>
-<a href="https://linkedin.com/in/axay-ram">LinkedIn</a> |
-<a href="mailto:axay19392@gmail.com">Gmail</a> |
-<a href="https://github.com/AxayRam">GitHub</a>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/axay-ram">LinkedIn</a> |
+  <a href="mailto:axay19392@gmail.com">Gmail</a> |
+  <a href="https://github.com/AxayRam">GitHub</a>
 </p>
