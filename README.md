@@ -1,176 +1,249 @@
-<h1 align="center">
-  Axay Ram - Embedded Systems & Firmware Developer
-</h1>
-<h3 align="center">
-  Electronics & Communication Engineering Student | IoT Specialist
-</h3>
+<h1 align="center">Axay Ram — Embedded Systems & Firmware Developer</h1> <h3 align="center">Electronics & Communication Engineering | IoT | Bare-Metal | Linux | C Programming</h3>
+🚀 About Me
 
----
+I am an Electronics & Communication Engineering student specializing in Embedded Systems, Firmware Development, and IoT Solutions.
+I recently completed my IoT Internship at Emertxe Information Technologies, where I built a complete Smart Home Automation System using Blynk, sensors, Ethernet, relays, and embedded C.
 
-## Professional Summary
+I work across Hardware + Firmware + System Integration, with strong foundations in:
 
-- Final Year Electronics & Communication Engineering Student
-- IoT Intern at Emertxe Information Technologies - Developed smart home automation systems
-- Specializing in Embedded Systems, Firmware, and Low-Level C Programming
-- Experienced with Raspberry Pi, ARM7, ESP32, 8086 Microprocessor, and Arduino Mega
-- Passionate about Bare-Metal Development, Device Drivers, and Real-Time Systems
-- Focus on hardware-software integration and system optimization
-- IoT Enthusiast with hands-on experience in Blynk platform and home automation
+Embedded C
 
----
+Microcontrollers & ARM Architecture
 
-## Technical Skills
+IoT Networks & Cloud Connectivity
 
-### Programming & Embedded
-- C Programming
-- Embedded C
-- Assembly Language
+Device Drivers (Beginner → Intermediate)
 
-### Embedded Platforms & Microcontrollers
-- Raspberry Pi
-- Arduino
-- ESP32
-- ARM7
-- 8086 Microprocessor
+Real-Time Systems
 
-### Tools & Development Environment
-- Git
-- GitHub
-- VS Code
-- Linux
-- GNU Toolchain
+Raspberry Pi & Linux Programming
 
-### Protocols & Communication
-- IoT Protocols
-- Bluetooth
-- WiFi
-- Serial Communication
-- I2C, SPI, UART
+My focus is building real-world embedded products that are reliable, scalable, and optimized.
 
-### Core Competencies
-- ARM Architecture
-- Signal Processing
-- Hardware Debugging
-- System Programming
-- Linker Scripts
-- IoT Systems
-- Blynk Platform
-- Sensor Networks
-- Home Automation
+🛠 Technical Skills
+Programming
 
----
+C Programming (Advanced)
 
-## Project Portfolio
+Embedded C
 
-### IoT Smart Home Automation System (Emertxe Internship)
-- Blynk-based Remote Control - Control home appliances via mobile app
-- Temperature Monitoring & Control - LM35 sensor with automatic safety cutoff
-- Lighting Automation - LDR-based automatic garden light control
-- Water Tank Management - Remote valve control and level monitoring
-- LCD Display Integration - Real-time status display
-- Ethernet Connectivity - Reliable internet connection for remote access
+Assembly (8086 & ARM)
 
-### ESP32-CAM Surveillance System
-- Wireless Surveillance using Telegram Bot - Live image capture and transmission
-- Remote Monitoring - Automated alert notifications with real-time snapshots
-- IoT Integration - Seamless connectivity and remote access capabilities
+Linux Command-line & Shell
 
-### Raspberry Pi 5 Embedded Systems
-- LED Blinking via GPIO in C - Bare-metal hardware control programming
-- Ultrasonic Sensor Distance Measurement - Real-time sensor data processing with interrupts
+Embedded Platforms
 
-### Signal Processing Systems
-- Pulse Code Modulation Generator in C - Custom PCM implementation for audio processing
-- Audio File Generation - Generates raw sinewave PCM files verified in Audacity
+ESP32 / ESP8266
 
-### Women Safety Device
-- GSM + GPS + Keypad + EEPROM Integration - Multi-module embedded system coordination
-- Emergency Response System - One-button SOS with live location tracking and SMS automation
+Raspberry Pi
 
-### Arduino Mega Multi-Sensor Systems
-- Multi-Sensor Data Acquisition - Real-time sensor monitoring and data logging
-- Hardware Interface Programming - Serial communication and peripheral control
+Arduino (UNO, Mega)
 
----
+ARM7
 
-## Professional Experience
+8086 Microprocessor
 
-### IoT Intern | Emertxe Information Technologies
-*[1 month]*
+Tools
 
-**Key Responsibilities & Achievements:**
-- Developed complete IoT-based Smart Home Automation System
-- Implemented temperature control with LM35 sensor and safety features
-- Designed LDR-based automatic lighting system with PWM control
-- Built water management system with remote valve control
-- Integrated Blynk IoT platform for remote monitoring and control
-- Worked with Ethernet Shield for reliable internet connectivity
+Git / GitHub
 
-**Technologies:** Arduino UNO, Blynk IoT, Ethernet Shield, LM35, LDR, Relay Modules, LCD Display
+VS Code
 
----
+PlatformIO
 
-## Certifications & Training
+GNU Toolchain
 
-| Certification | Institution | Focus Area |
-|---------------|-------------|------------|
-| IoT Internship | Emertxe Information Technologies | Smart Home Automation |
-| C Programming | Bharat Acharya Education | Advanced C Programming |
-| 8086 Microprocessor | Bharat Acharya Education | Assembly & Architecture |
-| ARM7 Microcontroller | Bharat Acharya Education | Embedded Systems |
-| ARM Cortex-M 101 & 102 | Pyjama Brah | ARM Programming |
-| C Mastery, Pointers, Bit Manipulation, DSA | Pyjama Brah | Low-Level Programming |
-| GNU Makefile & Automation | Pyjama Brah | Build Systems |
-| Introduction to C on Raspberry Pi | Udemy | Hardware Programming |
+Proteus / Tinkercad Simulation
 
----
+Protocols & Communication
 
-## GitHub Analytics
+UART, SPI, I2C
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>  
-</div>
+WiFi, Bluetooth
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+MQTT, HTTP
 
----
+GPS + GSM (SIM800L)
 
-## Current Focus
+Core Embedded Concepts
 
-- Advanced ARM Cortex-M Programming - Exploring bare-metal development techniques
-- Real-Time Operating Systems - FreeRTOS implementation and optimization
-- Custom Device Drivers - Linux kernel module development
-- Performance Optimization - Memory management and system efficiency
-- IoT Security - Implementing secure communication in embedded systems
-- Smart Automation - Expanding home automation with AI integration
+Interrupts & Timers
 
----
+Bare-Metal Programming
 
-## Professional Network
+Memory Mapping
 
-<div align="center">
+Linker Scripts
 
-Open to collaborations on embedded systems, IoT projects, and firmware development
+Debugging & Optimization
 
-<p align="center">
-  <a href="https://linkedin.com/in/axay-ram">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" style="margin: 0 20px;"/>
-  </a>
-  <a href="mailto:axay19392@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" style="margin: 0 20px;"/>
-  </a>
-  <a href="https://github.com/AxayRam">
-    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub" style="margin: 0 20px;"/>
-  </a>
-</p>
+Sensor Interfacing
 
-</div>
+Real-Time Systems (FreeRTOS - Basic)
 
----
+📂 Project Portfolio
+🔥 1. Smart Home Automation System (Emertxe IoT Internship)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AxayRam&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
+Duration: Sep–Nov 2025
+Institute: Emertxe Information Technologies
+Proof: Offer Letter + Certificate Attached
+📄 Certificate → 
+
+emertxe_internship_certificate_…
+
+
+📄 Offer Letter → 
+
+emertxe_internship_offer_letter…
+
+✨ Features Built
+
+Blynk App–based remote control of all appliances
+
+LM35 Temperature Monitoring + Auto safety cutoff
+
+LDR-based automatic lighting (garden/street lights)
+
+Water tank management (valve control + level sensing)
+
+Real-time LCD display
+
+Ethernet shield for stable IoT connectivity
+
+Manual/Auto hybrid control mode
+
+🔧 Tech Stack
+
+Arduino UNO / ESP32
+
+Blynk IoT Platform
+
+LM35, LDR, Ultrasonic, Relays
+
+Ethernet Shield
+
+Embedded C (Modular firmware design)
+
+💡 My Responsibilities
+
+Sensor calibration & driver writing
+
+Blynk dashboard + authentication workflow
+
+Relay switching with safety interlocks
+
+Network reconnect logic (Ethernet/WiFi)
+
+LCD menu + status UI
+
+Full SDLC documentation + debugging
+
+📸 2. ESP32-CAM Wireless Surveillance System
+
+Image capture + Telegram Bot integration
+
+Instant alert system with real-time snapshots
+
+Motion-based photo trigger
+
+IoT ready surveillance module
+
+WiFi-based fast communication
+
+💾 3. Pulse Code Modulation (PCM) Generator
+
+Custom PCM implementation in C
+
+Generates .raw audio files
+
+Verified output via Audacity
+
+Adjustable amplitude, sampling rate and frequency
+
+Strong understanding of signal encoding
+
+📡 4. Women Safety Device (GSM + GPS + EEPROM + Keypad)
+
+Built using Arduino Mega
+
+Live GPS tracking (NEO-6M)
+
+GSM SMS alert system (SIM800L)
+
+4x4 Keypad number input
+
+Stores emergency numbers in EEPROM
+
+Multi-module interrupt-driven design
+
+🧪 5. Raspberry Pi Embedded Projects
+
+GPIO LED Blinking in Bare-Metal C
+
+Ultrasonic distance measurement using interrupts
+
+Linux-based hardware control
+
+I/O mapping and timing accuracy handling
+
+🔌 6. Arduino Mega Multi-Sensor Data Acquisition
+
+Serial data streaming
+
+Real-time sensor monitoring
+
+Modular I/O management
+
+Peripheral-level programming (LCD, Serial, Sensors)
+
+🏢 Professional Experience
+IoT Intern — Emertxe Information Technologies (Bangalore)
+
+📆 1 Month Intensive Internship
+📄 Certificate ID: EI25_0013 (Attached Above)
+
+Key Achievements
+
+Developed full Smart Home Automation System
+
+Integrated sensors, relays, app-connectivity, and LCD
+
+Learned SDLC for Embedded + IoT development
+
+Applied C programming, debugging & system testing
+
+Gained hands-on exposure to real embedded workflow
+
+Technologies Used
+
+C, Arduino UNO, Blynk App, Ethernet Shield, LM35, LDR, Relays, Embedded C, Sensors.
+
+🎓 Certifications
+Certification	Organization	Focus Area
+IoT Internship	Emertxe	Smart Home Automation, Embedded IoT
+C Programming	Bharat Acharya Education	Advanced C
+8086 Microprocessor	BAE	Assembly, Architecture
+ARM7 Microcontroller	BAE	Embedded ARM
+ARM Cortex-M (101 & 102)	PyjamaBrah	ARM Essentials
+C Mastery + Pointers + Bit Magic + DSA	PyjamaBrah	Low-Level Mastery
+GNU Makefile	PyjamaBrah	Build Systems
+C on Raspberry Pi	Udemy	Bare-metal GPIO control
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170"/> </div>
+🎯 Current Focus
+
+ARM Cortex-M Bare-Metal Programming
+
+Linux Kernel Module Development (Drivers)
+
+IoT Security (Encryption, secure communication)
+
+Real-Time Systems (FreeRTOS tasks, queues, ISR)
+
+Hardware abstraction layers
+
+Optimized embedded firmware design
+
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/axay-ram"><img src="https://skillicons.dev/icons?i=linkedin" width="60"/></a> <a href="mailto:axay19392@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60"/></a> <a href="https://github.com/AxayRam"><img src="https://skillicons.dev/icons?i=github" width="60"/></a> </p>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=AxayRam&color=blueviolet&style=flat-square&label=Profile+Views"/> </div>
