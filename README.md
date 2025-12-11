@@ -5,10 +5,6 @@
 
 **Electronics & Communication Engineering | Embedded C | ARM Cortex | Linux | IoT**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axay-ram)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
-
 </div>
 
 ---
@@ -55,7 +51,7 @@ Recently completed **IoT Internship at Emertxe Information Technologies**, devel
 
 ## 📂 **Major Projects**
 
-### **1️⃣ Smart Home Automation System** ⭐ (IoT Internship)
+### **1️⃣ Smart Home Automation System** (IoT Internship)
 **Emertxe Information Technologies** | *Sep 2024 - Nov 2024*
 
 Designed and deployed a **production-ready home automation system** with:
@@ -67,8 +63,6 @@ Designed and deployed a **production-ready home automation system** with:
 - 📺 **LCD real-time diagnostics** displaying sensor data & system status
 
 **Tech Stack:** `Embedded C` | `ESP32/Arduino` | `LM35 Sensor` | `LDR` | `Relays` | `Blynk API` | `Ethernet`
-
-**GitHub:** [View Project](#) *(Add repo link)*
 
 ---
 
@@ -169,17 +163,17 @@ Custom waveform processor:
 
 | Category | Level | Progress |
 |---|---|---|
-| **C Programming** | ⭐⭐⭐⭐ | Advanced |
-| **Embedded Systems** | ⭐⭐⭐⭐ | Advanced |
-| **Microcontrollers** | ⭐⭐⭐ | Intermediate |
-| **Linux** | ⭐⭐⭐ | Intermediate |
-| **IoT & Cloud** | ⭐⭐⭐ | Intermediate |
+| **C Programming**  | Advanced |
+| **Embedded Systems**  | Advanced |
+| **Microcontrollers** | Intermediate |
+| **Linux** | Intermediate |
+| **IoT & Cloud**  | Intermediate |
 
 ---
 
-## 🔗 **Connect With Me**
-
 <div align="center">
+
+## 🔗 **Contact & Connect**
 
 📧 **Email:** [axay19392@gmail.com](mailto:axay19392@gmail.com)
 
@@ -187,16 +181,8 @@ Custom waveform processor:
 
 💻 **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)
 
-**Open to internships & entry-level embedded systems roles!**
-
-</div>
-
 ---
 
-<div align="center">
 
-### ⭐ If you find my work useful, don't forget to star my repositories!
-
-**Last Updated:** December 2025 | Currently Learning Vector India Embedded Systems Course
 
 </div>
