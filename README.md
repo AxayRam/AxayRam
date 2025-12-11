@@ -1,162 +1,202 @@
+<div align="center">
 
-<h1 align="center">👨‍💻 Axay Ram — Embedded & IoT Systems Developer</h1>
-<h3 align="center">Electronics & Communication Engineering | Embedded C | IoT | ARM Cortex | Linux</h3>
+# 👨‍💻 **Axay Ram** 
+## **Embedded Systems & IoT Developer**
 
----
+**Electronics & Communication Engineering | Embedded C | ARM Cortex | Linux | IoT**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,raspberrypi,arduino,git,github,vscode" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/axay-ram)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
 
----
-
-## 🚀 About Me
-
-I am an aspiring **Embedded Systems & Firmware Engineer** passionate about building  
-**real-world hardware–software integrated systems**.
-
-I recently completed my **IoT Internship at Emertxe**, developing a  
-**full-stack Smart Home Automation System** featuring sensor networks, cloud control,  
-Blynk dashboards, Ethernet-based stability, and modular Embedded C firmware.
-
-I enjoy working on:
-
-- Low-level programming & microcontroller architecture  
-- Protocols, sensor interfacing, and embedded communication  
-- IoT automation & cloud-connected smart systems  
-- Linux based development & Bare-Metal concepts  
-- Real-time systems, performance tuning & debugging  
-
-I’m constantly learning, experimenting, and pushing myself toward becoming a  
-**professional Embedded Engineer for high-performance systems.**
+</div>
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 **About Me**
 
-### 🔹 Programming
-- **C (Advanced Level)**  
-- Embedded C  
-- ARM & 8086 Assembly  
-- Linux Shell Scripting  
+Passionate **Embedded Systems & Firmware Engineer** with expertise in real-world hardware–software integrated systems. 
 
-### 🔹 Embedded Platforms
-- ESP32 / ESP8266  
-- Raspberry Pi (Linux + C)  
-- Arduino UNO / Mega  
-- ARM7 Systems  
-- 8086 Microprocessor  
+Recently completed **IoT Internship at Emertxe Information Technologies**, developing full-stack **Smart Home Automation Systems** with sensor networks, cloud control, and modular Embedded C firmware.
 
-### 🔹 Tools & IDEs
-- Git, GitHub  
-- VS Code  
-- PlatformIO  
-- Proteus, Tinkercad  
-
-### 🔹 Protocols & Interfaces
-- UART, SPI, I2C  
-- WiFi, Bluetooth  
-- MQTT, HTTP/REST  
-- GSM, GPS  
+**Key Focus Areas:**
+- 🔧 Low-level embedded C programming & microcontroller architecture
+- 📡 Communication protocols (UART, I2C, SPI, WiFi, MQTT)
+- 🌐 IoT systems design & cloud-connected automation
+- 🐧 Linux kernel fundamentals & bare-metal development
+- ⚡ Real-time systems & performance optimization
 
 ---
 
-## 📂 Major Projects
+## 🛠 **Technical Skills**
 
-### 🔥 Smart Home Automation System (Emertxe Internship)
-Designed and developed a reliable & scalable home automation system with:
+### **Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-0071C5?style=flat-square&logo=arm&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
-- Blynk App-based wireless control  
-- LM35 temperature-based automatic appliance protection  
-- LDR-driven lighting automation  
-- Water tank monitoring + valve control system  
-- Ethernet Shield ensured stable IoT connectivity  
-- LCD used for sensor diagnostics & live system status  
+### **Microcontroller Platforms**
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+![ARM7](https://img.shields.io/badge/ARM7-0071C5?style=flat-square&logo=arm&logoColor=white)
+![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-A22333?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
-**Tech Stack:**  
-`Embedded C`, `Arduino/ESP32`, `LM35`, `LDR`, `Relays`, `Ethernet Shield`, `Blynk`
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
-
-### 📸 ESP32-CAM Wireless Surveillance
-- Telegram Bot–based monitoring  
-- Motion-triggered image capture  
-- Lightweight IoT camera system  
-
----
-
-### 💾 PCM Audio Generator (C Language)
-- Custom PCM waveform generator  
-- RAW audio file output verified using Audacity  
-- Strong understanding of encoding techniques  
+### **Protocols & Interfaces**
+`UART` | `I2C` | `SPI` | `WiFi` | `Bluetooth` | `MQTT` | `HTTP/REST` | `GSM` | `GPS`
 
 ---
 
-### 📡 Women Safety Device (GSM + GPS + EEPROM)
-- SIM800L GSM alerts with live location  
-- GPS NEO-6M tracking  
-- 4×4 Keypad + EEPROM emergency number storage  
+## 📂 **Major Projects**
+
+### **1️⃣ Smart Home Automation System** ⭐ (IoT Internship)
+**Emertxe Information Technologies** | *Sep 2024 - Nov 2024*
+
+Designed and deployed a **production-ready home automation system** with:
+- 🏠 **Blynk app-based wireless control** for remote device management
+- 🌡️ **Temperature-based automation** (LM35 sensor + relay protection)
+- 💡 **LDR-driven lighting** (automatic brightness control)
+- 💧 **Water tank monitoring** with automated valve control
+- 🌐 **Ethernet Shield connectivity** for stable IoT communication
+- 📺 **LCD real-time diagnostics** displaying sensor data & system status
+
+**Tech Stack:** `Embedded C` | `ESP32/Arduino` | `LM35 Sensor` | `LDR` | `Relays` | `Blynk API` | `Ethernet`
+
+**GitHub:** [View Project](#) *(Add repo link)*
 
 ---
 
-### 🧪 Raspberry Pi Projects
-- Bare-metal GPIO LED control in C  
-- Ultrasonic sensor distance measurement  
-- Timing, interrupts & Linux GPIO handling  
+### **2️⃣ ESP32-CAM Wireless Surveillance System**
+
+Implemented **IoT-based security monitoring** with:
+- 📸 Motion-triggered image capture
+- 🤖 Telegram Bot integration for alerts
+- 🌐 Real-time cloud image upload
+- ⚡ Low-power IoT camera system
+
+**Tech Stack:** `ESP32-CAM` | `Telegram API` | `MQTT` | `Embedded C`
 
 ---
 
-## 🏢 Experience
+### **3️⃣ Women Safety Device** (GSM + GPS)
 
-### 💼 IoT Intern — Emertxe Information Technologies
-- Built full Home Automation IoT System from scratch  
-- Wrote sensor drivers, relay control logic & Blynk interface  
-- Designed reconnect logic for network reliability  
-- Followed SDLC for embedded software  
-- Hands-on debugging, testing & code optimization  
+Emergency alert system featuring:
+- 📍 **GPS NEO-6M** real-time location tracking
+- 📞 **SIM800L GSM** module for SMS/call alerts
+- 🔐 **EEPROM** emergency contact storage
+- ⌨️ **4×4 Keypad** interface
 
----
-
-## 🎓 Certifications
-
-<table>
-<tr><th>Certification</th><th>Institute</th><th>Focus</th></tr>
-<tr><td>IoT Internship</td><td>Emertxe</td><td>Embedded IoT & Automation</td></tr>
-<tr><td>Advanced C Programming</td><td>BAE</td><td>Pointers, Memory, Advanced C</td></tr>
-<tr><td>8086 Microprocessor</td><td>BAE</td><td>Assembly, Architecture</td></tr>
-<tr><td>ARM7 Microcontroller</td><td>BAE</td><td>Low-level ARM Programming</td></tr>
-<tr><td>ARM Cortex-M 101/102</td><td>PyjamaBrah</td><td>ARM Architecture Essentials</td></tr>
-<tr><td>C Mastery + Bit Magic</td><td>PyjamaBrah</td><td>Low-level C Mastery</td></tr>
-<tr><td>GNU Makefile</td><td>PyjamaBrah</td><td>Build Automation</td></tr>
-<tr><td>C on Raspberry Pi</td><td>Udemy</td><td>Bare-metal GPIO Operations</td></tr>
-</table>
+**Tech Stack:** `ARM7` | `GPS` | `GSM` | `EEPROM` | `Embedded C`
 
 ---
 
-## 📊 GitHub Analytics
+### **4️⃣ PCM Audio Generator** (Pure C)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- ARM Cortex-M Bare-Metal Development  
-- Linux Kernel Drivers (Char Drivers)  
-- FreeRTOS Tasks, Queues & Timers  
-- IoT Device Security & Encryption  
-- HAL Layer Design & Optimization  
+Custom waveform processor:
+- 🔊 PCM audio encoding & RAW file generation
+- 🎵 Verified with Audacity spectral analysis
+- 💾 Advanced audio encoding techniques
 
 ---
 
-## 🌐 Connect With Me
+### **5️⃣ Raspberry Pi Bare-Metal GPIO Projects**
 
-<p align="center">
-  <a href="https://linkedin.com/in/axay-ram">LinkedIn</a> |
-  <a href="mailto:axay19392@gmail.com">Gmail</a> |
-  <a href="https://github.com/AxayRam">GitHub</a>
-</p>
+- 🔌 Direct GPIO LED control in C
+- 📏 Ultrasonic sensor distance measurement
+- ⏱️ Interrupt-driven timing & event handling
+
+---
+
+## 🎓 **Certifications & Training**
+
+| Certification | Institute | Key Topics |
+|---|---|---|
+| **IoT Internship** | Emertxe Info Tech | Smart Home, Embedded IoT, Real-world Projects |
+| **Advanced C Programming** | Bharat Acharya Education | Pointers, Memory Management, DSA |
+| **8086 Microprocessor** | BAE | x86 Assembly, CPU Architecture |
+| **ARM7 Microcontroller** | BAE | ARM Architecture, Low-level Programming |
+| **ARM Cortex-M 101 & 102** | PyjamaBrah | ARM Cortex Essentials |
+| **GNU Make & Automation** | PyjamaBrah | Build Systems, Compilation |
+| **C on Raspberry Pi** | Udemy | Bare-Metal GPIO, Linux Interaction |
+
+---
+
+## 💼 **Professional Experience**
+
+### **IoT Intern** — Emertxe Information Technologies
+*Sep 2024 — Nov 2024* | Hyderabad
+
+- ✅ Architected full Home Automation system from concept to deployment
+- ✅ Wrote reusable sensor drivers & relay control modules
+- ✅ Implemented network reconnect logic for reliability
+- ✅ Followed SDLC best practices for embedded software
+- ✅ Debugged real-time issues & optimized code performance
+- ✅ Mentored team on embedded C best practices
+
+---
+
+## 📊 **GitHub Statistics**
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f1f2e&title_color=fb7185&icon_color=fb7185)](https://github.com/AxayRam)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f2e&title_color=fb7185)](https://github.com/AxayRam)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true&background=1f1f2e&stroke=fb7185&ring=fb7185&fire=fb7185)](https://github.com/AxayRam)
+
+</div>
+
+---
+
+## 🎯 **Current Learning Goals**
+
+- 🔐 Linux Kernel Module Development (Character Drivers)
+- 🎛️ FreeRTOS: Tasks, Queues, Semaphores, ISRs
+- 🔧 HAL Layer Design & Low-level Optimization
+- 🛡️ IoT Device Security & Encryption
+- 📈 Performance Profiling & Optimization Techniques
+
+---
+
+## 📈 **Experience Level**
+
+| Category | Level | Progress |
+|---|---|---|
+| **C Programming** | ⭐⭐⭐⭐ | Advanced |
+| **Embedded Systems** | ⭐⭐⭐⭐ | Advanced |
+| **Microcontrollers** | ⭐⭐⭐ | Intermediate |
+| **Linux** | ⭐⭐⭐ | Intermediate |
+| **IoT & Cloud** | ⭐⭐⭐ | Intermediate |
+
+---
+
+## 🔗 **Connect With Me**
+
+<div align="center">
+
+📧 **Email:** [axay19392@gmail.com](mailto:axay19392@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/axay-ram](https://linkedin.com/in/axay-ram)
+
+💻 **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)
+
+**Open to internships & entry-level embedded systems roles!**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work useful, don't forget to star my repositories!
+
+**Last Updated:** December 2025 | Currently Learning Vector India Embedded Systems Course
+
+</div>
