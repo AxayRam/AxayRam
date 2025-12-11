@@ -64,6 +64,8 @@ Designed and deployed a **production-ready home automation system** with:
 
 **Tech Stack:** `Embedded C` | `ESP32/Arduino` | `LM35 Sensor` | `LDR` | `Relays` | `Blynk API` | `Ethernet`
 
+**[View Repository](https://github.com/AxayRam/SMART-HOME-AUTOMATION-)**
+
 ---
 
 ### **2️⃣ ESP32-CAM Wireless Surveillance System**
@@ -75,6 +77,8 @@ Implemented **IoT-based security monitoring** with:
 - ⚡ Low-power IoT camera system
 
 **Tech Stack:** `ESP32-CAM` | `Telegram API` | `MQTT` | `Embedded C`
+
+**[View Repository](https://github.com/AxayRam/Strawman-s-Eye)**
 
 ---
 
@@ -97,6 +101,8 @@ Custom waveform processor:
 - 🎵 Verified with Audacity spectral analysis
 - 💾 Advanced audio encoding techniques
 
+**[View Repository](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
+
 ---
 
 ### **5️⃣ Raspberry Pi Bare-Metal GPIO Projects**
@@ -104,6 +110,8 @@ Custom waveform processor:
 - 🔌 Direct GPIO LED control in C
 - 📏 Ultrasonic sensor distance measurement
 - ⏱️ Interrupt-driven timing & event handling
+
+**[View Repository](https://github.com/AxayRam/C-on-Raspberry-Pi)**
 
 ---
 
@@ -123,66 +131,4 @@ Custom waveform processor:
 
 ## 💼 **Professional Experience**
 
-### **IoT Intern** — Emertxe Information Technologies
-*Sep 2024 — Nov 2024* | Hyderabad
-
-- ✅ Architected full Home Automation system from concept to deployment
-- ✅ Wrote reusable sensor drivers & relay control modules
-- ✅ Implemented network reconnect logic for reliability
-- ✅ Followed SDLC best practices for embedded software
-- ✅ Debugged real-time issues & optimized code performance
-- ✅ Mentored team on embedded C best practices
-
----
-
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f1f2e&title_color=fb7185&icon_color=fb7185)](https://github.com/AxayRam)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f2e&title_color=fb7185)](https://github.com/AxayRam)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AxayRam&theme=tokyonight&hide_border=true&background=1f1f2e&stroke=fb7185&ring=fb7185&fire=fb7185)](https://github.com/AxayRam)
-
-</div>
-
----
-
-## 🎯 **Current Learning Goals**
-
-- 🔐 Linux Kernel Module Development (Character Drivers)
-- 🎛️ FreeRTOS: Tasks, Queues, Semaphores, ISRs
-- 🔧 HAL Layer Design & Low-level Optimization
-- 🛡️ IoT Device Security & Encryption
-- 📈 Performance Profiling & Optimization Techniques
-
----
-
-## 📈 **Experience Level**
-
-| Category | Level | Progress |
-|---|---|---|
-| **C Programming**  | Advanced |
-| **Embedded Systems**  | Advanced |
-| **Microcontrollers** | Intermediate |
-| **Linux** | Intermediate |
-| **IoT & Cloud**  | Intermediate |
-
----
-
-<div align="center">
-
-## 🔗 **Contact & Connect**
-
-📧 **Email:** [axay19392@gmail.com](mailto:axay19392@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/axay-ram](https://linkedin.com/in/axay-ram)
-
-💻 **GitHub:** [github.com/AxayRam](https://github.com/AxayRam)
-
----
-
-
-
-</div>
+### 
