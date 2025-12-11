@@ -190,10 +190,6 @@ Currently maintaining **14+ repositories** with focus on:
 
 ---
 
-**Open to internships & entry-level embedded systems roles!**
 
-*Last Updated: December 2025*
-
-*Currently Preparing: Vector India Embedded Systems Training*
 
 </div>
