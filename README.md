@@ -66,7 +66,7 @@ Developed a robust IoT solution focusing on reliability and remote manageability
 
 ---
 
-### **2️⃣ Strawman-s-Eye – ESP32-CAM Surveillance**
+### **2️⃣ Strawman-s-Eye – ESP32-CAM **
 
 Low-power, **event-driven security system** named **Strawman-s-Eye** using ESP32-CAM:  
 - 📸 **Motion-Based Capture:** PIR sensor triggers image capture only on movement.  
@@ -100,7 +100,7 @@ Network-based surveillance prototype:
 
 **Tech Stack:** `ESP32-CAM` | `C / Arduino Core`  
 
-**[🔗 View Repository](https://github.com/AxayRam/Strawman-s-Eye)**
+**[🔗 View Repository](https://github.com/AxayRam/Camera_Surveillance_System)**
 
 ---
 
