@@ -113,7 +113,7 @@ Embedded safety device for real-time tracking and emergency alerting:
 
 **Tech Stack:** `ARM7` | `GPS` | `GSM` | `EEPROM` | `Embedded C`
 
-**[🔗 View Repository](https://github.com/AxayRam/Women-Safety-and-GPS-Tracking-Device)**
+**[🔗 View Repository](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)**
 
 ---
 
