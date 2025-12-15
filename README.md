@@ -98,9 +98,10 @@ Network-based surveillance prototype:
 - 🌐 **WiFi Streaming:** Live video stream over local network.  
 - 📲 **Remote Events:** Telegram bot integration for remote commands and alerts.  
 
-**Tech Stack:** `ESP32-CAM` | `C / Arduino Core`
+**Tech Stack:** `ESP32-CAM` | `C / Arduino Core`  
 
-**[🔗 View Repository](https://github.com/AxayRam/Camera_Surveillance_System)**
+**[🔗 View Repository](https://github.com/AxayRam/Strawman-s-Eye)**
+
 ---
 
 ### **5️⃣ Women Safety & GPS Tracking Device**
@@ -112,7 +113,8 @@ Embedded safety device for real-time tracking and emergency alerting:
 
 **Tech Stack:** `ARM7` | `GPS` | `GSM` | `EEPROM` | `Embedded C`
 
-**[🔗 View Repository]()**
+**[🔗 View Repository](https://github.com/AxayRam/Women-Safety-and-GPS-Tracking-Device)**
+
 ---
 
 ### **6️⃣  PCM Audio Generator (DSP Project)**
@@ -125,9 +127,6 @@ Implemented **Pulse Code Modulation (PCM)** in C:
 **[🔗 View Repository](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
 
 ---
-
-
-
 
 ## 🎓 **Professional Certifications**
 
@@ -164,11 +163,6 @@ Implemented **Pulse Code Modulation (PCM)** in C:
 
 ---
 
-## 📊 **GitHub Activity Overview**
-
-Actively contributing to projects in **Embedded C**, **IoT**, **Microcontroller firmware**, and **Linux-based systems**.
-
-**[🔗 View All Repositories](https://github.com/AxayRam?tab=repositories)**
 
 ---
 
