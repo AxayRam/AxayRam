@@ -48,11 +48,11 @@ My primary interests include:
 
 ### Women Safety and GPS Tracking Device
 - ARM7-based emergency design using GPS + GSM modules
-- Repository: [WOMAN_SEFTY_DEVICE](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)
+- Repository: [Women Safety Device](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)
 
 ### PCM Audio Generator
 - C implementation of PCM waveform generation and processing
-- Repository: [PCM-PULSE-CODE-MODULATIO-N](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)
+- Repository: [PCM Pulse Code Modulation](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)
 
 ## Experience
 ### IoT Intern — Emertxe Information Technologies
