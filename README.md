@@ -1,36 +1,39 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Axay+Ram;Embedded+Systems+%26+Firmware+Engineer;ARM+%7C+ESP32+%7C+Raspberry+Pi+%7C+IoT" alt="Typing SVG" />
+# Axay Ram
+### Embedded Systems & Firmware Engineer
 
-### 🎯 Electronics & Communication Engineering | Embedded C | ARM Cortex | Linux | IoT
+Electronics and Communication Engineering · Embedded C · ARM Cortex · Linux · IoT
 
-[![Profile Views](https://komarev.com/ghpvc/?username=AxayRam&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/AxayRam)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--axay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-axay)
 [![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AxayRam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AxayRam)
+[![Profile Views](https://komarev.com/ghpvc/?username=AxayRam&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/AxayRam)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-Results-driven **Embedded Systems Engineer** with a strong foundation in **firmware development, hardware interfacing, and real-time systems**. Experienced in building **end-to-end IoT solutions**, writing **optimized bare-metal C**, and designing **reliable control systems**.
+Embedded systems engineer focused on firmware development, hardware interfacing, and real-time behavior in resource-constrained systems.  
+Experienced in end-to-end IoT development, low-level C programming, and embedded validation workflows.
 
-Delivered a production-grade **Smart Home Automation System** during my internship at **Emertxe Information Technologies**, covering sensor integration, cloud telemetry, and system stability.
+During an internship at **Emertxe Information Technologies**, I delivered a smart home automation system covering sensor integration, cloud telemetry, and reliability-focused control logic.
 
-**Core Competencies:**
+### Core Competencies
+
 | Area | Skills |
 |---|---|
-| 🔧 **Firmware** | Bare-metal C, Driver development, Low-level programming |
-| 📡 **Protocols** | UART, I2C, SPI, WiFi, HTTP, GSM, GPS |
-| 🎛️ **Platforms** | ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
-| 🐧 **Linux** | Shell scripting, GPIO, System programming |
-| 🛠️ **Tools** | PICSimLab, GDB, Logic Analyzer, Git |
+| Firmware | Bare-metal C, driver development, low-level programming |
+| Protocols | UART, I2C, SPI, Wi-Fi, HTTP, GSM, GPS |
+| Platforms | ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
+| Linux | Shell scripting, GPIO, system programming |
+| Tools | PICSimLab, GDB, logic analyzer, Git |
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,166 +46,149 @@ Delivered a production-grade **Smart Home Automation System** during my internsh
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22333?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-### Tools & IDEs
+### Tools and IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Communication Protocols
-`UART` &nbsp;|&nbsp; `I2C` &nbsp;|&nbsp; `SPI` &nbsp;|&nbsp; `WiFi` &nbsp;|&nbsp; `HTTP` &nbsp;|&nbsp; `GSM` &nbsp;|&nbsp; `GPS`
+`UART` | `I2C` | `SPI` | `Wi-Fi` | `HTTP` | `GSM` | `GPS`
 
 ---
 
-## 📊 GitHub Stats
+## Engineering Projects
 
-<div align="center">
+For implementation details, setup, and usage instructions, open the individual project repositories linked below.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AxayRam&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📂 Engineering Projects
-
-### 1️⃣ Smart Home Automation System *(IoT Internship)*
-> **Emertxe Information Technologies** &nbsp;|&nbsp; *Sep 2024 – Nov 2024*
+### 1) Smart Home Automation System (IoT Internship)
+**Emertxe Information Technologies** · *Sep 2024 – Nov 2024*
 
 End-to-end IoT solution with remote management and safety automation:
-- 📲 **Cloud Control** — Blynk IoT platform for remote monitoring and control
-- 🛡️ **Safety Logic** — LM35 thermal sensor triggers automatic relay cut-off
-- ⚡ **Energy Efficiency** — LDR-based adaptive lighting
-- 💧 **Resource Management** — Automated water-tank level sensing and pump control
-- 🖥️ **HMI** — 16×2 LCD for real-time diagnostics
+- Cloud control through the Blynk IoT platform
+- LM35 thermal sensor-based automatic relay cut-off
+- LDR-based adaptive lighting control
+- Automated water-tank level sensing and pump control
+- 16×2 LCD human-machine interface for runtime status
 
 `Embedded C` `ESP32` `Blynk Cloud` `UART` `I2C` `Sensors`
 
-**[🔗 View Repository →](https://github.com/AxayRam/SMART-HOME-AUTOMATION-)**
+**[View Repository](https://github.com/AxayRam/SMART-HOME-AUTOMATION-)**
 
 ---
 
-### 2️⃣ Strawman's Eye — Motion-Triggered Security Camera
-> ESP32-CAM · PIR Sensor · Telegram Bot API
+### 2) Strawman's Eye — Motion-Triggered Security Camera
+ESP32-CAM · PIR sensor · Telegram Bot API
 
-Low-power, event-driven security system — captures and alerts only on real motion:
-- 📸 **Smart Capture** — PIR sensor triggers image capture on movement only (zero idle power)
-- 🤖 **Instant Alerts** — Captured images delivered to phone via Telegram Bot API
+Low-power, event-driven security system:
+- PIR-triggered image capture on motion events
+- Telegram bot-based image alerts to mobile
 
 `ESP32-CAM` `PIR Sensor` `Telegram API` `Embedded C`
 
-**[🔗 View Repository →](https://github.com/AxayRam/Strawman-s-Eye)**
+**[View Repository](https://github.com/AxayRam/Strawman-s-Eye)**
 
 ---
 
-### 3️⃣ Raspberry Pi 5 — Adaptive LED & Ultrasonic Sensor
-> Raspberry Pi 5 · C · WiringPi · HC-SR04
+### 3) Raspberry Pi 5 — Adaptive LED and Ultrasonic Sensor
+Raspberry Pi 5 · C · WiringPi · HC-SR04
 
-Bare-metal style embedded C project running natively on Raspberry Pi 5:
-- 💡 **GPIO LED Control** — Precision-timed LED blinking via WiringPi
-- 📏 **Distance Sensing** — HC-SR04 ultrasonic sensor for real-time cm readings
-- 🔁 **Adaptive Logic** — LED blink frequency adjusts dynamically with measured distance
+Embedded C project running on Raspberry Pi 5:
+- GPIO LED control with timing behavior
+- HC-SR04 distance measurement in centimeters
+- Distance-based adaptive LED blink logic
 
 `Raspberry Pi 5` `C` `WiringPi` `HC-SR04` `GPIO`
 
-**[🔗 View Repository →](https://github.com/AxayRam/Raspberry-Pi-LED-Ultrasonic-Project)**
+**[View Repository](https://github.com/AxayRam/Raspberry-Pi-LED-Ultrasonic-Project)**
 
 ---
 
-### 4️⃣ ESP32-CAM Wireless Surveillance System
-> ESP32-CAM · C / Arduino Core · Telegram API
+### 4) ESP32-CAM Wireless Surveillance System
+ESP32-CAM · C/Arduino Core · Telegram API
 
-Network-based live-streaming surveillance prototype:
-- 🌐 **WiFi Live Stream** — Real-time video over local network
-- 📲 **Remote Control** — Telegram bot integration for remote commands and event alerts
+Network-based surveillance prototype:
+- Wi-Fi live stream over local network
+- Telegram bot integration for remote commands and alerts
 
-`ESP32-CAM` `C` `Arduino Core` `WiFi`
+`ESP32-CAM` `C` `Arduino Core` `Wi-Fi`
 
-**[🔗 View Repository →](https://github.com/AxayRam/Camera_Surveillance_System)**
+**[View Repository](https://github.com/AxayRam/Camera_Surveillance_System)**
 
 ---
 
-### 5️⃣ Women's Safety & GPS Tracking Device
-> ARM7 · NEO-6M GPS · SIM800L GSM · EEPROM
+### 5) Women's Safety and GPS Tracking Device
+ARM7 · NEO-6M GPS · SIM800L GSM · EEPROM
 
 Embedded safety device for real-time location tracking and emergency response:
-- 📍 **GPS Tracking** — NEO-6M acquires real-time latitude/longitude
-- 📡 **SOS Alerts** — SIM800L sends emergency SMS and triggers calls
-- 🔐 **Non-Volatile Storage** — EEPROM stores emergency contact numbers
+- GPS-based latitude/longitude tracking
+- SIM800L emergency SMS and call triggering
+- EEPROM-based emergency contact persistence
 
 `ARM7` `GPS` `GSM` `EEPROM` `Embedded C`
 
-**[🔗 View Repository →](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)**
+**[View Repository](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)**
 
 ---
 
-### 6️⃣ PCM Audio Generator *(DSP Project)*
-> C · Audacity · DSP
+### 6) PCM Audio Generator (DSP Project)
+C · Audacity · DSP
 
-Implemented **Pulse Code Modulation (PCM)** from scratch in C:
-- 🔊 Generated custom audio waveforms exported as raw audio files
-- 📉 Verified signal spectrum and timing characteristics using Audacity
-- 💾 Memory-efficient circular buffer implementation
+Pulse Code Modulation implementation in C:
+- Custom waveform generation exported as raw audio
+- Spectrum/timing validation in Audacity
+- Circular buffer-based memory-efficient data flow
 
 `C` `DSP` `PCM` `Audacity`
 
-**[🔗 View Repository →](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
+**[View Repository](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### IoT Intern — Emertxe Information Technologies
-*Sep 2024 – Nov 2024 &nbsp;|&nbsp; Hyderabad, India*
+*Sep 2024 – Nov 2024 · Hyderabad, India*
 
-- ✅ Designed **end-to-end embedded IoT solutions** (sensors → firmware → cloud)
-- ✅ Developed reusable **C drivers** for peripherals and communication modules
-- ✅ Performed unit testing and hardware-in-loop validation using **PICSimLab**
-- ✅ Documented designs, test cases, and results following industrial SDLC standards
+- Designed end-to-end embedded IoT solutions (sensors → firmware → cloud)
+- Developed reusable C drivers for peripherals and communication modules
+- Performed unit testing and hardware-in-loop validation using PICSimLab
+- Documented design decisions, tests, and results using SDLC-style workflows
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 | Certification | Institute | Key Topics |
 |:---|:---|:---|
-| **IoT Internship** | Emertxe InfoTech | Industrial IoT, Sensor Interfacing, Cloud |
-| **Advanced C Programming** | Bharat Acharya Education | Pointers, Memory Management |
-| **8086 Microprocessor** | Bharat Acharya Education | CPU Architecture, Assembly, Interrupts |
-| **ARM7 Microcontroller** | Bharat Acharya Education | 32-bit Architecture, Peripherals, Drivers |
-| **ARM Cortex-M 101 & 102** | PyjamaBrah | Cortex-M, Exceptions, Peripherals |
-| **GNU Make & Build Systems** | PyjamaBrah | Makefiles, Cross Compilation |
-| **C Programming on Raspberry Pi** | Udemy | Linux GPIO, File I/O, Hardware Access |
+| IoT Internship | Emertxe InfoTech | Industrial IoT, sensor interfacing, cloud |
+| Advanced C Programming | Bharat Acharya Education | Pointers, memory management |
+| 8086 Microprocessor | Bharat Acharya Education | CPU architecture, assembly, interrupts |
+| ARM7 Microcontroller | Bharat Acharya Education | 32-bit architecture, peripherals, drivers |
+| ARM Cortex-M 101 | PyjamaBrah | Cortex-M, exceptions, peripherals |
+| GNU Make and Build Systems | PyjamaBrah | Makefiles, cross-compilation |
+| C Programming on Raspberry Pi | Udemy | Linux GPIO, file I/O, hardware access |
 
 ---
 
-## 🎯 Currently Learning
+## Current Learning Focus
 
-- 🐧 **Embedded Linux** — Character drivers, Device Tree, Kernel modules
-- ⚡ **RTOS** — FreeRTOS multi-tasking on ARM Cortex-M
-- 🔧 **HAL Design** — Reusable Hardware Abstraction Layers for MCUs
-- 🔒 **Embedded Security** — Secure boot, Cryptography, OTA updates
+- Embedded Linux: Character drivers, device tree, kernel modules
+- RTOS: FreeRTOS multitasking on ARM Cortex-M
+- HAL design: Reusable hardware abstraction layers for MCUs
+- Embedded security: Secure boot, cryptography, OTA updates
 
 ---
 
 <div align="center">
 
-## 🔗 Connect & Collaborate
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-axay)
 [![Email](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
 
----
+Open to embedded systems and firmware engineering opportunities.
 
-**💼 Open to opportunities in Embedded Systems & Firmware Engineering**
-
-*Last Updated: April 2026*
+*Last updated: April 2026*
 
 </div>
