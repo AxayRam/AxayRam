@@ -1,12 +1,12 @@
 <div align="center">
 
-
 # Axay Ram
 ### Embedded Systems & Firmware Engineer
 
-Electronics and Communication Engineering · Embedded C · ARM Cortex · Linux · IoT
+**B.E. Electronics & Communication Engineering · VGEC, Ahmedabad · CGPA: 8.04**  
+📍 Ahmedabad, Gujarat, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram--axay-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-axay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-axay--ram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-axay)
 [![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AxayRam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AxayRam)
 [![Profile Views](https://komarev.com/ghpvc/?username=AxayRam&color=0e75b6&style=flat-square&label=Profile+Views)](https://github.com/AxayRam)
@@ -31,6 +31,16 @@ During an internship at **Emertxe Information Technologies**, I delivered a smar
 | Platforms | ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
 | Linux | Shell scripting, GPIO, system programming |
 | Tools | PICSimLab, GDB, logic analyzer, Git |
+
+---
+
+## Education
+
+**B.E. Electronics & Communication Engineering**  
+Vishwakarma Government Engineering College (VGEC), Ahmedabad · **CGPA: 8.04**  
+*2021 – 2025*
+
+Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers · Digital Signal Processing · Computer Networks · Operating Systems · Digital Electronics
 
 ---
 
@@ -59,8 +69,6 @@ During an internship at **Emertxe Information Technologies**, I delivered a smar
 
 ## Engineering Projects
 
-For implementation details, setup, and usage instructions, open the individual project repositories linked below.
-
 ### 1) Smart Home Automation System (IoT Internship)
 **Emertxe Information Technologies** · *Sep 2024 – Nov 2024*
 
@@ -73,7 +81,7 @@ End-to-end IoT solution with remote management and safety automation:
 
 `Embedded C` `ESP32` `Blynk Cloud` `UART` `I2C` `Sensors`
 
-**[View Repository](https://github.com/AxayRam/SMART-HOME-AUTOMATION-)**
+**[View Repository →](https://github.com/AxayRam/SMART-HOME-AUTOMATION-)**
 
 ---
 
@@ -82,11 +90,11 @@ ESP32-CAM · PIR sensor · Telegram Bot API
 
 Low-power, event-driven security system:
 - PIR-triggered image capture on motion events
-- Telegram bot-based image alerts to mobile
+- Telegram bot-based image delivery to mobile in real time
 
 `ESP32-CAM` `PIR Sensor` `Telegram API` `Embedded C`
 
-**[View Repository](https://github.com/AxayRam/Strawman-s-Eye)**
+**[View Repository →](https://github.com/AxayRam/Strawman-s-Eye)**
 
 ---
 
@@ -100,7 +108,7 @@ Embedded C project running on Raspberry Pi 5:
 
 `Raspberry Pi 5` `C` `WiringPi` `HC-SR04` `GPIO`
 
-**[View Repository](https://github.com/AxayRam/Raspberry-Pi-LED-Ultrasonic-Project)**
+**[View Repository →](https://github.com/AxayRam/Raspberry-Pi-LED-Ultrasonic-Project)**
 
 ---
 
@@ -113,7 +121,7 @@ Network-based surveillance prototype:
 
 `ESP32-CAM` `C` `Arduino Core` `Wi-Fi`
 
-**[View Repository](https://github.com/AxayRam/Camera_Surveillance_System)**
+**[View Repository →](https://github.com/AxayRam/Camera_Surveillance_System)**
 
 ---
 
@@ -127,7 +135,7 @@ Embedded safety device for real-time location tracking and emergency response:
 
 `ARM7` `GPS` `GSM` `EEPROM` `Embedded C`
 
-**[View Repository](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)**
+**[View Repository →](https://github.com/AxayRam/WOMAN_SEFTY_DEVICE)**
 
 ---
 
@@ -141,7 +149,7 @@ Pulse Code Modulation implementation in C:
 
 `C` `DSP` `PCM` `Audacity`
 
-**[View Repository](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
+**[View Repository →](https://github.com/AxayRam/PCM-PULSE-CODE-MODULATIO-N)**
 
 ---
 
@@ -180,6 +188,20 @@ Pulse Code Modulation implementation in C:
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Axay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxayRam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxayRam&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AxayRam&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
 <div align="center">
 
 ## Connect
@@ -188,7 +210,7 @@ Pulse Code Modulation implementation in C:
 [![Email](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AxayRam)
 
-Open to embedded systems and firmware engineering opportunities.
+**Open to embedded systems and firmware engineering opportunities.**
 
 *Last updated: April 2026*
 
