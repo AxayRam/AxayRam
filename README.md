@@ -17,19 +17,24 @@
 Embedded systems engineer focused on firmware development, hardware interfacing, and real-time behavior in resource-constrained systems.  
 I build end-to-end solutions across embedded C, Linux-based development, PCB design, and validation workflows.
 
-During an internship at **Emertxe Information Technologies**, I delivered a smart home automation system covering sensor integration, cloud telemetry, and reliability-focused control logic.
+Currently working on **industrial Modbus TCP weight measurement firmware** on STM32F4 with FreeRTOS, LwIP, and precision ADC interfacing for real-time load cell data acquisition and network telemetry.
+
+Previously delivered a **smart home automation system** during an internship at **Emertxe Information Technologies**, covering sensor integration, cloud telemetry, and reliability-focused control logic.
 
 ### Core Competencies
 
 | Area | Skills |
 |---|---|
-| Firmware | Bare-metal C, driver development, low-level programming |
-| Hardware | Sensor interfacing, GPIO, interrupt handling, peripheral integration |
-| Protocols | UART, I2C, SPI, Wi-Fi, HTTP, GSM, GPS, EtherCAT |
-| Platforms | ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
-| Linux | Shell scripting, GPIO, system programming, build tools |
+| Firmware | Bare-metal C, HAL/LL drivers, RTOS task design, DMA transfers, interrupt-driven I/O |
+| RTOS | FreeRTOS (CMSIS V2): tasks, semaphores, mutexes, queues, priority scheduling |
+| Hardware | Load cell interfacing, sensor integration, GPIO multiplexing, 7-segment display driving |
+| Protocols | UART, I2C, SPI, Ethernet (RMII), Modbus TCP, EtherCAT, Wi-Fi, HTTP, GSM, GPS |
+| Networking | LwIP TCP/IP stack, static IP configuration, Modbus TCP server, socket management |
+| Platforms | STM32F4 (Cortex-M4), ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
 | PCB & EDA | Schematic design, EasyEDA, Gerber generation, BOM preparation, 3D PCB visualization |
-| Tools | GDB, logic analyzer, PICSimLab, Git, VS Code |
+| Storage | Flash EEPROM emulation (log-structured), EEPROM drivers, non-volatile config management |
+| Linux | Shell scripting, GPIO, system programming, build tools |
+| Tools | STM32CubeIDE, STM32CubeMX, GDB, logic analyzer, PICSimLab, Git, VS Code |
 
 ---
 
@@ -49,25 +54,48 @@ Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers · D
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Hardware Platforms
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM_Cortex--M-0071C5?style=for-the-badge&logo=arm&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22333?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
+### RTOS & Middleware
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-6DB33F?style=for-the-badge&logo=freertos&logoColor=white)
+![LwIP](https://img.shields.io/badge/LwIP_TCP/IP-005571?style=for-the-badge&logo=internetcomputer&logoColor=white)
+
 ### PCB & EDA Tools
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-2D8CFF?style=for-the-badge&logo=easyeda&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Communication Protocols
-`UART` | `I2C` | `SPI` | `EtherCAT` | `Wi-Fi` | `HTTP` | `GSM` | `GPS`
+`UART` | `I2C` | `SPI` | `Ethernet (RMII)` | `Modbus TCP` | `EtherCAT` | `Wi-Fi` | `HTTP` | `GSM` | `GPS`
 
 ---
 
 ## Engineering Projects
 
-### 1) Smart Home Automation System (IoT Internship)
+### 1) Industrial TCP Weight Measurement System
+**STM32F407 · FreeRTOS · LwIP · Modbus TCP · CS5551 ADC**
+
+Production-grade industrial weighing system firmware for real-time load cell data acquisition, signal processing, and network-based telemetry:
+
+- **STM32F407VGT6** (ARM Cortex-M4 @ 168 MHz) bare-metal firmware with STM32 HAL
+- **FreeRTOS** multi-task architecture (5 tasks): ADC sampling, LCD refresh, Modbus server, button debounce, and network management with mutex/semaphore/queue synchronization
+- **CS5551 precision ADC** driver (SPI, x128 PGA gain) with alpha-trimmed mean filter for ±0.01% measurement stability
+- **Modbus TCP server** (port 502) on **LwIP** stack over Ethernet RMII (LAN8742 PHY) — holding register read/write for SCADA/HMI integration
+- **Log-structured flash EEPROM emulation** (128 KB sector, ~1638 write cycles before erase) for non-volatile storage of calibration, network config, and operational parameters
+- **6-digit multiplexed 7-segment display** with 20+ level hierarchical menu system for runtime configuration (IP/subnet/gateway, calibration, filter settings)
+- DMA-accelerated SPI transfers with ISR→task signaling via binary semaphores
+
+`STM32F4` `FreeRTOS` `LwIP` `Modbus TCP` `SPI` `DMA` `CS5551 ADC` `Ethernet` `EEPROM Emulation` `Embedded C`
+
+---
+
+### 2) Smart Home Automation System (IoT Internship)
 **Emertxe Information Technologies** · *Sep 2024 – Nov 2024*
 
 End-to-end IoT solution with remote management and safety automation:
@@ -83,7 +111,7 @@ End-to-end IoT solution with remote management and safety automation:
 
 ---
 
-### 2) LAN9252 EtherCAT SPI Evaluation Board
+### 3) LAN9252 EtherCAT SPI Evaluation Board
 **Industrial EtherCAT Slave PCB Design**
 
 Professional PCB design for an EtherCAT slave evaluation board based on the Microchip LAN9252 controller with SPI host interface. The repository includes production-ready hardware deliverables for review and fabrication.
@@ -102,7 +130,7 @@ Highlights:
 
 ---
 
-### 3) Strawman's Eye — Motion-Triggered Security Camera
+### 4) Strawman's Eye — Motion-Triggered Security Camera
 ESP32-CAM · PIR sensor · Telegram Bot API
 
 Low-power, event-driven security system:
@@ -115,7 +143,7 @@ Low-power, event-driven security system:
 
 ---
 
-### 4) Raspberry Pi 5 — Adaptive LED and Ultrasonic Sensor
+### 5) Raspberry Pi 5 — Adaptive LED and Ultrasonic Sensor
 Raspberry Pi 5 · C · WiringPi · HC-SR04
 
 Embedded C project running on Raspberry Pi 5:
@@ -129,7 +157,7 @@ Embedded C project running on Raspberry Pi 5:
 
 ---
 
-### 5) ESP32-CAM Wireless Surveillance System
+### 6) ESP32-CAM Wireless Surveillance System
 ESP32-CAM · C/Arduino Core · Telegram API
 
 Network-based surveillance prototype:
@@ -142,7 +170,7 @@ Network-based surveillance prototype:
 
 ---
 
-### 6) Women's Safety and GPS Tracking Device
+### 7) Women's Safety and GPS Tracking Device
 ARM7 · NEO-6M GPS · SIM800L GSM · EEPROM
 
 Embedded safety device for real-time location tracking and emergency response:
@@ -156,7 +184,7 @@ Embedded safety device for real-time location tracking and emergency response:
 
 ---
 
-### 7) PCM Audio Generator (DSP Project)
+### 8) PCM Audio Generator (DSP Project)
 C · Audacity · DSP
 
 Pulse Code Modulation implementation in C:
@@ -171,6 +199,18 @@ Pulse Code Modulation implementation in C:
 ---
 
 ## Work Experience
+
+### Embedded Firmware Engineer — Vraj Enterprises
+*2026 – Present · Gujarat, India*
+
+Developing production-grade industrial weighing system firmware on STM32F4:
+- Designed multi-task FreeRTOS architecture (5 concurrent tasks) with mutex, semaphore, and queue-based synchronization for deterministic ADC sampling and LCD refresh
+- Implemented custom CS5551 precision ADC driver over SPI with DMA acceleration and alpha-trimmed mean filter achieving ±0.01% measurement repeatability
+- Built Modbus TCP server from scratch on LwIP stack (Ethernet RMII + LAN8742 PHY) for real-time weight data exposure to SCADA/HMI systems
+- Engineered log-structured flash EEPROM emulation (128 KB sector, ~320 µs write latency) eliminating 1–4 second display freezes from sector erase operations
+- Developed 20+ level hierarchical menu system on multiplexed 7-segment display with button debounce, runtime IP/calibration configuration, and password-protected settings
+
+---
 
 ### IoT Intern — Emertxe Information Technologies
 *Sep 2024 – Nov 2024 · Hyderabad, India*
