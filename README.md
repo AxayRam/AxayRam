@@ -38,8 +38,6 @@ During an internship at **Emertxe Information Technologies**, I delivered a smar
 ## Education
 
 **B.E. Electronics & Communication Engineering**  
-Vishwakarma Government Engineering College (VGEC), Ahmedabad · **CGPA: 8.04**  
-*2021 – 2025*
 
 Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers · Digital Signal Processing · Computer Networks · Operating Systems · Digital Electronics
 
