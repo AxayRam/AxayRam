@@ -92,6 +92,8 @@ Production-grade industrial weighing system firmware for real-time load cell dat
 - DMA-accelerated SPI transfers with ISR→task signaling via binary semaphores
 
 `STM32F4` `FreeRTOS` `LwIP` `Modbus TCP` `SPI` `DMA` `CS5551 ADC` `Ethernet` `EEPROM Emulation` `Embedded C`
+**[View Repository →](https://github.com/AxayRam/stm32-tcp-weight-system)**
+
 
 ---
 
