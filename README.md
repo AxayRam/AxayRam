@@ -4,8 +4,7 @@ new repo update in github to  add in to skill and project
 # Axay Ram
 ### Embedded Systems & Firmware Engineer
 
-**B.E. Electronics & Communication Engineering · VGEC, Ahmedabad · CGPA: 8.04**  
-📍 Ahmedabad, Gujarat, India
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-axay--ram-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-axay)
 [![Email](https://img.shields.io/badge/Email-axay19392%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:axay19392@gmail.com)
@@ -214,5 +213,3 @@ Pulse Code Modulation implementation in C:
 *Last updated: April 2026*
 
 </div>
-
-this redeme file update 
