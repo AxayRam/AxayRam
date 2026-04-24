@@ -1,3 +1,10 @@
+Here is your updated GitHub Profile README! I have added the **LAN9252 EtherCAT SPI Evaluation Board** project, putting it at the very top of your Projects list so recruiters and engineers see your professional hardware design skills first. 
+
+I also added **EtherCAT**, **EasyEDA**, and **PCB Design** to your "Core Competencies" and "Technical Stack" sections.
+
+You can simply copy the code block below and paste it into your GitHub profile repository's `README.md` file:
+
+```markdown
 <div align="center">
 
 # Axay Ram
@@ -27,10 +34,10 @@ During an internship at **Emertxe Information Technologies**, I delivered a smar
 | Area | Skills |
 |---|---|
 | Firmware | Bare-metal C, driver development, low-level programming |
-| Protocols | UART, I2C, SPI, Wi-Fi, HTTP, GSM, GPS |
+| Protocols | UART, I2C, SPI, Wi-Fi, HTTP, GSM, GPS, EtherCAT |
 | Platforms | ARM Cortex-M, ARM7, ESP32, AVR, Raspberry Pi |
 | Linux | Shell scripting, GPIO, system programming |
-| Tools | PICSimLab, GDB, logic analyzer, Git |
+| Tools | PICSimLab, GDB, logic analyzer, Git, EasyEDA, PCB Design |
 
 ---
 
@@ -61,15 +68,30 @@ Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers · D
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-415162?style=for-the-badge&logo=easyeda&logoColor=white)
 
 ### Communication Protocols
-`UART` | `I2C` | `SPI` | `Wi-Fi` | `HTTP` | `GSM` | `GPS`
+`UART` | `I2C` | `SPI` | `Wi-Fi` | `HTTP` | `GSM` | `GPS` | `EtherCAT`
 
 ---
 
 ## Engineering Projects
 
-### 1) Smart Home Automation System (IoT Internship)
+### 1) LAN9252 EtherCAT SPI Evaluation Board
+Microchip LAN9252 · EasyEDA · Hardware Design
+
+Professional industrial EtherCAT evaluation board designed for embedded prototyping:
+- Multi-layer PCB design featuring the LAN9252 EtherCAT controller
+- SPI host interface for seamless external MCU integration
+- Complete hardware files including Gerbers, BOM, schematics, and 3D renders
+
+`EtherCAT` `PCB Design` `EasyEDA` `Hardware` `SPI`
+
+**[View Repository →](https://github.com/AxayRam/LAN9252-EtherCAT-SPI-EVB)**
+
+---
+
+### 2) Smart Home Automation System (IoT Internship)
 **Emertxe Information Technologies** · *Sep 2024 – Nov 2024*
 
 End-to-end IoT solution with remote management and safety automation:
@@ -85,7 +107,7 @@ End-to-end IoT solution with remote management and safety automation:
 
 ---
 
-### 2) Strawman's Eye — Motion-Triggered Security Camera
+### 3) Strawman's Eye — Motion-Triggered Security Camera
 ESP32-CAM · PIR sensor · Telegram Bot API
 
 Low-power, event-driven security system:
@@ -98,7 +120,7 @@ Low-power, event-driven security system:
 
 ---
 
-### 3) Raspberry Pi 5 — Adaptive LED and Ultrasonic Sensor
+### 4) Raspberry Pi 5 — Adaptive LED and Ultrasonic Sensor
 Raspberry Pi 5 · C · WiringPi · HC-SR04
 
 Embedded C project running on Raspberry Pi 5:
@@ -112,7 +134,7 @@ Embedded C project running on Raspberry Pi 5:
 
 ---
 
-### 4) ESP32-CAM Wireless Surveillance System
+### 5) ESP32-CAM Wireless Surveillance System
 ESP32-CAM · C/Arduino Core · Telegram API
 
 Network-based surveillance prototype:
@@ -125,7 +147,7 @@ Network-based surveillance prototype:
 
 ---
 
-### 5) Women's Safety and GPS Tracking Device
+### 6) Women's Safety and GPS Tracking Device
 ARM7 · NEO-6M GPS · SIM800L GSM · EEPROM
 
 Embedded safety device for real-time location tracking and emergency response:
@@ -139,7 +161,7 @@ Embedded safety device for real-time location tracking and emergency response:
 
 ---
 
-### 6) PCM Audio Generator (DSP Project)
+### 7) PCM Audio Generator (DSP Project)
 C · Audacity · DSP
 
 Pulse Code Modulation implementation in C:
@@ -215,3 +237,4 @@ Pulse Code Modulation implementation in C:
 *Last updated: April 2026*
 
 </div>
+```
