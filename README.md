@@ -96,7 +96,7 @@ Highlights:
 - Bill of Materials (BOM) for component planning
 - 3D PCB renders and layout documentation
 
-`EtherCAT` `LAN9252` `SPI` `EasyEDA` `PCB Design` `Gerber` `BOM`
+`EtherCAT Design` `LAN9252` `SPI` `EasyEDA` `PCB Design` `Gerber` `BOM`
 
 **[View Repository →](https://github.com/AxayRam/LAN9252-EtherCAT-SPI-EVB)**
 
