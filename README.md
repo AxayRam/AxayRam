@@ -203,7 +203,7 @@ Pulse Code Modulation implementation in C:
 
 ## Work Experience
 
-### Embedded Firmware Engineer — Vraj Enterprises
+### Embedded Firmware Engineer — Akshar Electronics
 *2026 – Present · Gujarat, India*
 
 Developing production-grade industrial weighing system firmware on STM32F4:
