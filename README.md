@@ -42,7 +42,7 @@ Previously delivered a **smart home automation system** during an internship at 
 
 **B.E. Electronics & Communication Engineering**
 
-Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers · Digital Signal Processing · Computer Networks · Operating Systems · Digital Electronics
+Relevant Coursework: Embedded Systems · Microprocessors & Microcontrollers  · Computer Networks · Digital Electronics
 
 ---
 
