@@ -216,7 +216,7 @@ Developing production-grade industrial weighing system firmware on STM32F4:
 ---
 
 ### IoT Intern — Emertxe Information Technologies
-*Sep 2024 – Nov 2024 · Hyderabad, India*
+*Sep 2024 – Nov 2024 · Bangalore, India*
 
 - Designed end-to-end embedded IoT solutions (sensors → firmware → cloud)
 - Developed reusable C drivers for peripherals and communication modules
