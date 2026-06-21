@@ -201,6 +201,19 @@ Pulse Code Modulation implementation in C:
 
 ---
 
+### 9) ARM Cortex-M Round Robin Task Scheduler
+
+ARMv7-M Assembly · SysTick · QEMU · GDB
+- Implemented a bare-metal Round Robin scheduler for three tasks on ARM Cortex-M. 
+- Used separate stacks, manual context switching, and SysTick interrupts for task scheduling.
+-  Debugged register and stack transitions using GDB and validated execution in QEMU.
+
+`ARM Cortex-M Assembly` `RTOS Fundamentals` `Context Switching` `SysTick` `GDB` `QEMU`
+
+**[View Repository →]()**
+
+---
+
 ## Work Experience
 
 ### Embedded Firmware Engineer — Akshar Electronics
